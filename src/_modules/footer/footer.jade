@@ -1,29 +1,24 @@
 footer.footer
-    .container.footer__container
-        
-        .footer__logo.wow.fadeInDown
-            a(href="/")
-                img(src="/images/logo-white.png")
-        
-        .footer__data        
-            p.footer__address= site.data.footer.address 
-            a.footer__mail(href="mailto:#{site.data.footer.mail}")= site.data.footer.mail
-            a.footer__tel(href="tel:#{site.data.footer.tel}")= site.data.footer.tel
-        
-        .footer__social
-            ul.footer__social__list
-                each red in site.data.social
-                    li
-                        a(href=red.url, target="_blank")
-                            i(class="fa fa-#{red.name}")
-        
-        nav.footer__nav
-            ul.footer__menu
-                each item in site.data.header
-                    li
-                        a(href=item.url)= item.name
-                        if item.submenu
-                            ul.footer__submenu
-                                each link in item.submenu
-                                    li
-                                        a(href=link.url)= link.name
+    .container
+        .row
+            .col-md-8
+                p.copyright= site.data.footer.footer.copyright
+            .col-md-4
+                ul
+                    each item in site.data.footer.footer.items1
+                        li
+                            a(href=item.url)= item.name
+            .col-md-4
+                ul
+                    each item in site.data.footer.footer.items2
+                        li
+                            a(href=item.url)= item.name
+            .col-md-8.redes
+                ul
+                    each item in site.data.footer.footer.redes
+                        li.network
+                            a(href=item.url)
+                                i(class=item.name)
+
+
+

@@ -1,5 +1,59 @@
 {
-    "address":"Ruta Provincia 162, Maurin s/n, Media Agua, San Juan, Argentina.",
-    "mail": "hospitalidad@maralewines.com",
-    "tel": "+54 9 2646 70-0146"
+    "footer": {
+        "copyright": "© 2017 Descorchados",
+        "items1": [
+            {
+                "name": "Apuntes",
+                "url": "#/"
+            },
+            {
+                "name": "Acerca de descorchados",
+                "url": "#/"
+            },
+            {
+                "name": "Descorchados en viaje",
+                "url": "#/"
+            },
+            {
+                "name": "Vino de la semana",
+                "url": "#/"
+            }
+        ],
+        "items2": [
+            {
+                "name": "Más que vinos",
+                "url": "#/"
+            },
+            {
+                "name": "Envianos tus vinos",
+                "url": "#/"
+            },
+            {
+                "name": "Area profesionales",
+                "url": "#/"
+            },
+            {
+                "name": "Contacto",
+                "url": "#/"
+            }
+        ],
+        "redes": [
+            {
+                "name": "fa fa-youtube",
+                "url": "#/"
+            },
+            {
+                "name": "fa fa-facebook",
+                "url": "#/"
+            },
+            {
+                "name": "fa fa-twitter",
+                "url": "#/"
+            },
+            {
+                "name": "fa fa-instagram",
+                "url": "#/"
+            }
+        ]
+    }
 }

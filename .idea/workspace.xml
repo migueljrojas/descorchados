@@ -1,0 +1,775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c48013d2-c8af-486e-808b-1e2f15c128d9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/about/about-top-bg.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/about/about-top-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/about/video-bg.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/about/video-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/about/video-placeholder.jpg" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/about/video-placeholder.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/ajax-loader.gif" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/ajax-loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/analisis/character.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/analisis/character.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/gartner-logo.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/gartner-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/costos.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/costos.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/finanzas.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/finanzas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/hero-slide-1.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/hero-slide-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/hero-slide-2.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/hero-slide-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/it-manager.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/it-manager.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/logo-caci.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/logo-caci.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/logo-ici.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/logo-ici.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/logo-l3.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/logo-l3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/logo-lockheed.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/logo-lockheed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/logo-mckenna.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/logo-mckenna.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/logo-walt-disney.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/logo-walt-disney.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/noaa.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/noaa.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/novedad-1.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/novedad-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/novedad-2.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/novedad-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/novedad-3.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/novedad-3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/novedad-4.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/novedad-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/respaldo.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/respaldo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/servicio.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/servicio.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/trayectoria.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/trayectoria.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/video-placeholder.jpg" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/video-placeholder.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/home/whysxi-bg.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/home/whysxi-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/itad/person.jpg" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/itad/person.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/itad/person2.jpg" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/itad/person2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/itad/procesoitad.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/itad/procesoitad.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/main-bg-white.jpg" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/main-bg-white.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/main-bg.jpg" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/main-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/novedades-prueba.jpg" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/novedades-prueba.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/yeogurt-swirl.png" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/yeogurt-swirl.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/favicon.ico" afterPath="$PROJECT_DIR$/../xsiweb/src/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/slick.eot" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/slick.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/slick.ttf" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/slick.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/slick.woff" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/slick.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-BdWeb.eot" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-BdWeb.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-BdWeb.ttf" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-BdWeb.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-BdWeb.woff" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-BdWeb.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-BdWeb.woff2" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-BdWeb.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-ItWeb.eot" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-ItWeb.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-ItWeb.ttf" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-ItWeb.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-ItWeb.woff" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-ItWeb.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-ItWeb.woff2" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-ItWeb.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-Web.eot" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-Web.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-Web.ttf" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-Web.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-Web.woff" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-Web.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-Web.woff2" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-Web.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/transfonter.org-20170615-182439.zip" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/transfonter.org-20170615-182439.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/favicon.ico" afterPath="$PROJECT_DIR$/../xsiweb/web/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/FontAwesome.otf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/fontawesome-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/fontawesome-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/fontawesome-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/fontawesome-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/slick.eot" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/slick.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/slick.ttf" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/slick.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/slick.woff" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/slick.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-BdWeb.eot" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-BdWeb.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-BdWeb.ttf" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-BdWeb.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-BdWeb.woff" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-BdWeb.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-BdWeb.woff2" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-BdWeb.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-ItWeb.eot" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-ItWeb.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-ItWeb.ttf" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-ItWeb.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-ItWeb.woff" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-ItWeb.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-ItWeb.woff2" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-ItWeb.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-Web.eot" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-Web.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-Web.ttf" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-Web.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-Web.woff" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-Web.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-Web.woff2" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-Web.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/transfonter.org-20170615-182439.zip" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/transfonter.org-20170615-182439.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/about/about-top-bg.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/about/about-top-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/about/video-bg.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/about/video-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/ajax-loader.gif" afterPath="$PROJECT_DIR$/../xsiweb/web/images/ajax-loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/costos.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/costos.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/finanzas.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/finanzas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/hero-slide-1.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/hero-slide-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/hero-slide-2.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/hero-slide-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/it-manager.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/it-manager.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/logo-caci.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/logo-caci.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/logo-ici.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/logo-ici.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/logo-l3.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/logo-l3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/logo-lockheed.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/logo-lockheed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/logo-mckenna.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/logo-mckenna.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/logo-walt-disney.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/logo-walt-disney.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/noaa.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/noaa.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/novedad-1.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/novedad-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/novedad-2.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/novedad-2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/novedad-3.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/novedad-3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/novedad-4.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/novedad-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/respaldo.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/respaldo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/servicio.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/servicio.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/trayectoria.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/trayectoria.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/video-placeholder.jpg" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/video-placeholder.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/home/whysxi-bg.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/home/whysxi-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/main-bg-white.jpg" afterPath="$PROJECT_DIR$/../xsiweb/web/images/main-bg-white.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/main-bg.jpg" afterPath="$PROJECT_DIR$/../xsiweb/web/images/main-bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/novedades-prueba.jpg" afterPath="$PROJECT_DIR$/../xsiweb/web/images/novedades-prueba.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/yeogurt-swirl.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/yeogurt-swirl.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_data/footer.json" afterPath="$PROJECT_DIR$/src/_data/footer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_data/home.json" afterPath="$PROJECT_DIR$/src/_data/home.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_modules/footer/footer.jade" afterPath="$PROJECT_DIR$/src/_modules/footer/footer.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_modules/footer/footer.scss" afterPath="$PROJECT_DIR$/src/_modules/footer/footer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_modules/slider/slider.js" afterPath="$PROJECT_DIR$/src/_modules/slider/slider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_styles/main.scss" afterPath="$PROJECT_DIR$/src/_styles/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_styles/pages/_home.scss" afterPath="$PROJECT_DIR$/src/_styles/pages/_home.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.jade" afterPath="$PROJECT_DIR$/src/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/.editorconfig" afterPath="$PROJECT_DIR$/../xsiweb/.editorconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/.eslintrc" afterPath="$PROJECT_DIR$/../xsiweb/.eslintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/.gitattributes" afterPath="$PROJECT_DIR$/../xsiweb/.gitattributes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/.gitignore" afterPath="$PROJECT_DIR$/../xsiweb/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/.yo-rc.json" afterPath="$PROJECT_DIR$/../xsiweb/.yo-rc.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/README.md" afterPath="$PROJECT_DIR$/../xsiweb/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/bower.json" afterPath="$PROJECT_DIR$/../xsiweb/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/gulp/browserSync.js" afterPath="$PROJECT_DIR$/../xsiweb/gulp/browserSync.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/gulp/browserify.js" afterPath="$PROJECT_DIR$/../xsiweb/gulp/browserify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/gulp/clean.js" afterPath="$PROJECT_DIR$/../xsiweb/gulp/clean.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/gulp/copy.js" afterPath="$PROJECT_DIR$/../xsiweb/gulp/copy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/gulp/eslint.js" afterPath="$PROJECT_DIR$/../xsiweb/gulp/eslint.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/gulp/imagemin.js" afterPath="$PROJECT_DIR$/../xsiweb/gulp/imagemin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/gulp/jade.js" afterPath="$PROJECT_DIR$/../xsiweb/gulp/jade.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/gulp/sass.js" afterPath="$PROJECT_DIR$/../xsiweb/gulp/sass.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/gulp/watch.js" afterPath="$PROJECT_DIR$/../xsiweb/gulp/watch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/gulpfile.js" afterPath="$PROJECT_DIR$/../xsiweb/gulpfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/package.json" afterPath="$PROJECT_DIR$/../xsiweb/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/README.md" afterPath="$PROJECT_DIR$/../xsiweb/src/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/README.md" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/about.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/about.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/analisis.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/analisis.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/blueprints.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/blueprints.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/clientes.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/clientes.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/clientesinside.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/clientesinside.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/footer.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/footer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/formgral.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/formgral.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/formtpm.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/formtpm.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/gartner.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/gartner.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/header.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/header.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/historia.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/historia.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/home.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/home.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/itad.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/itad.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/jobs.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/jobs.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/mantenimiento.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/mantenimiento.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/novedades.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/novedades.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/services.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/services.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_data/social.json" afterPath="$PROJECT_DIR$/../xsiweb/src/_data/social.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_images/README.md" afterPath="$PROJECT_DIR$/../xsiweb/src/_images/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_layouts/README.md" afterPath="$PROJECT_DIR$/../xsiweb/src/_layouts/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_layouts/base.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/_layouts/base.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/README.md" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/article/article.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/article/article.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/article/article.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/article/article.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/article/article.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/article/article.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/article/tests/article.test.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/article/tests/article.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/calculator/calculator.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/calculator/calculator.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/calculator/calculator.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/calculator/calculator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/calculator/calculator.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/calculator/calculator.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/calculator/tests/calculator.test.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/calculator/tests/calculator.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/contact-form/contact-form.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/contact-form/contact-form.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/contact-form/contact-form.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/contact-form/contact-form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/contact-form/contact-form.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/contact-form/contact-form.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/contact-form/tests/contact-form.test.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/contact-form/tests/contact-form.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/cta/cta.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/cta/cta.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/cta/cta.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/cta/cta.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/cta/cta.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/cta/cta.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/cta/tests/cta.test.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/cta/tests/cta.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/footer/footer.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/footer/footer.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/footer/footer.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/footer/footer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/footer/footer.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/footer/footer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/footer/tests/footer.test.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/footer/tests/footer.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/header/header.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/header/header.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/header/header.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/header/header.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/header/header.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/header/header.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/header/tests/header.test.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/header/tests/header.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/job/job.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/job/job.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/job/job.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/job/job.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/job/job.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/job/job.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/job/tests/job.test.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/job/tests/job.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/logo/logo.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/logo/logo.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/slider/slider.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/slider/slider.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/slider/slider.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/slider/slider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/slider/slider.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/slider/slider.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/slider/tests/slider.test.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/slider/tests/slider.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/suscribe/suscribe.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/suscribe/suscribe.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/suscribe/suscribe.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/suscribe/suscribe.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/suscribe/suscribe.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/suscribe/suscribe.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/suscribe/tests/suscribe.test.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/suscribe/tests/suscribe.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/team/team.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/team/team.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/team/team.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/team/team.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/team/team.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/team/team.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/team/tests/team.test.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/team/tests/team.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/testimonial/testimonial.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/testimonial/testimonial.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/testimonial/testimonial.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/testimonial/testimonial.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/testimonial/testimonial.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/testimonial/testimonial.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_modules/testimonial/tests/testimonial.test.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_modules/testimonial/tests/testimonial.test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_scripts/README.md" afterPath="$PROJECT_DIR$/../xsiweb/src/_scripts/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_scripts/home.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_scripts/home.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_scripts/main.js" afterPath="$PROJECT_DIR$/../xsiweb/src/_scripts/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/README.md" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/_bootstrap.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/_bootstrap.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/_components.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/_components.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/_mixins.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/_mixins.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/_modules.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/_modules.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/_pages.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/_pages.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/_typography.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/_typography.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/components/_buttons.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/components/_buttons.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/components/_forms.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/components/_forms.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/components/_utils.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/components/_utils.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/main.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/main.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/mixins/_bootstrap-variables.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/mixins/_bootstrap-variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/mixins/_responsive.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/mixins/_responsive.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/mixins/_variables.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/mixins/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_about.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_about.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_analisis.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_analisis.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_blueprints.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_blueprints.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_formulario-general.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_formulario-general.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_formulario-tpm.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_formulario-tpm.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_gartner.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_gartner.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_historia.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_historia.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_home.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_home.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_jobs.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_jobs.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_mantenimiento.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_mantenimiento.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_partners.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_partners.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_service-itad.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_service-itad.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_service-tpm.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_service-tpm.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_team.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_team.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_whitepapers.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/pages/_whitepapers.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/_styles/slick-theme.scss" afterPath="$PROJECT_DIR$/../xsiweb/src/_styles/slick-theme.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/about/index.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/about/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/analisis/index.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/analisis/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/blueprints/index.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/blueprints/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/demo.html" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/slick.svg" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/slick.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/stylesheet.css" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-BdWeb.svg" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-BdWeb.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-ItWeb.svg" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-ItWeb.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-Web.svg" afterPath="$PROJECT_DIR$/../xsiweb/src/fonts/subset-Myriad-Web.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/formulario-general/index.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/formulario-general/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/formulario-tpm/index.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/formulario-tpm/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/gartner/index.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/gartner/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/historia/index.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/historia/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/index.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/jobs/index.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/jobs/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/mantenimiento/index.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/mantenimiento/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/partners/index.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/partners/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/robots.txt" afterPath="$PROJECT_DIR$/../xsiweb/src/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/service-itad/index.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/service-itad/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/service-tpm/index.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/service-tpm/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/team/index.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/team/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/src/whitepapers/index.jade" afterPath="$PROJECT_DIR$/../xsiweb/src/whitepapers/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/README.md" afterPath="$PROJECT_DIR$/../xsiweb/web/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/about/index.html" afterPath="$PROJECT_DIR$/../xsiweb/web/about/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/analisis/index.html" afterPath="$PROJECT_DIR$/../xsiweb/web/analisis/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/blueprints/index.html" afterPath="$PROJECT_DIR$/../xsiweb/web/blueprints/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/demo.html" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/fontawesome-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/slick.svg" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/slick.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/stylesheet.css" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-BdWeb.svg" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-BdWeb.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-ItWeb.svg" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-ItWeb.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-Web.svg" afterPath="$PROJECT_DIR$/../xsiweb/web/fonts/subset-Myriad-Web.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/formulario-general/index.html" afterPath="$PROJECT_DIR$/../xsiweb/web/formulario-general/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/formulario-tpm/index.html" afterPath="$PROJECT_DIR$/../xsiweb/web/formulario-tpm/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/gartner/index.html" afterPath="$PROJECT_DIR$/../xsiweb/web/gartner/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/historia/index.html" afterPath="$PROJECT_DIR$/../xsiweb/web/historia/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/index.html" afterPath="$PROJECT_DIR$/../xsiweb/web/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/jobs/index.html" afterPath="$PROJECT_DIR$/../xsiweb/web/jobs/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/mantenimiento/index.html" afterPath="$PROJECT_DIR$/../xsiweb/web/mantenimiento/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/partners/index.html" afterPath="$PROJECT_DIR$/../xsiweb/web/partners/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/robots.txt" afterPath="$PROJECT_DIR$/../xsiweb/web/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/scripts/main.js" afterPath="$PROJECT_DIR$/../xsiweb/web/scripts/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/scripts/main.js.map" afterPath="$PROJECT_DIR$/../xsiweb/web/scripts/main.js.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/service-itad/index.html" afterPath="$PROJECT_DIR$/../xsiweb/web/service-itad/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/service-tpm/index.html" afterPath="$PROJECT_DIR$/../xsiweb/web/service-tpm/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/styles/main.css" afterPath="$PROJECT_DIR$/../xsiweb/web/styles/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/styles/main.css.map" afterPath="$PROJECT_DIR$/../xsiweb/web/styles/main.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/team/index.html" afterPath="$PROJECT_DIR$/../xsiweb/web/team/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/whitepapers/index.html" afterPath="$PROJECT_DIR$/../xsiweb/web/whitepapers/index.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.jade" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/index.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="986">
+              <caret line="58" column="49" lean-forward="false" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_data/home.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_modules/footer/footer.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_modules/footer/footer.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_data/footer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="590">
+              <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_home.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_styles/pages/_home.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="573">
+              <caret line="224" column="30" lean-forward="false" selection-start-line="224" selection-start-column="30" selection-end-line="224" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/_styles/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/_modules/slider/slider.js" />
+        <option value="$PROJECT_DIR$/src/_styles/main.scss" />
+        <option value="$PROJECT_DIR$/src/_styles/pages/_home.scss" />
+        <option value="$PROJECT_DIR$/src/_data/footer.json" />
+        <option value="$PROJECT_DIR$/src/_data/home.json" />
+        <option value="$PROJECT_DIR$/src/index.jade" />
+        <option value="$PROJECT_DIR$/src/_modules/footer/footer.jade" />
+        <option value="$PROJECT_DIR$/src/_modules/footer/footer.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="44" />
+    <option name="width" value="1260" />
+    <option name="height" value="960" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bower_components" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_data" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_modules" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_modules" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="footer" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_modules" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="slider" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_styles" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_styles" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="mixins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_styles" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xsiweb" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xsiweb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xsiweb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_modules" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xsiweb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_styles" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xsiweb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_styles" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xsiweb" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c48013d2-c8af-486e-808b-1e2f15c128d9" name="Default" comment="" />
+      <created>1505060506355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505060506355</updated>
+      <workItem from="1505060507954" duration="28142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28142000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="44" width="1282" height="973" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25234374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../xsiweb/src/_styles/_pages.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xsiweb/src/_styles/pages/_historia.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/acerca-de/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xsiweb/src/_styles/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xsiweb/src/_scripts/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_modules/slider/slider.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xsiweb/src/_modules/slider/slider.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xsiweb/src/_modules/slider/slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xsiweb/src/_modules/slider/slider.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_modules/slider/slider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xsiweb/src/_styles/pages/_home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_styles/_typography.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_styles/mixins/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xsiweb/src/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="2" column="23" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../xsiweb/src/_data/home.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_data/footer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_styles/pages/_home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="224" column="30" lean-forward="false" selection-start-line="224" selection-start-column="30" selection-end-line="224" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_modules/footer/footer.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_styles/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_modules/footer/footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_data/home.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="49" lean-forward="false" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -32,7 +32,10 @@ body {
     font-size: $sm;
 
     //temp
-    background: $black;
+    background: #f5f5f5;
+  .container {
+    padding: 0;
+  }
 }
 
 main,
@@ -50,6 +53,12 @@ main {
 h1, h2, h3, h4, h5, h6 {
     font-family: $mainFont;
     font-weight: 700;
+}
+h2 {
+  font-family: $altFont;
+  font-size: $xxl;
+  font-weight: 700;
+  text-align: center;
 }
 
 a {

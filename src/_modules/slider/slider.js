@@ -8,6 +8,7 @@ var Slider = function() {
             $(this).slick({
                 dots: true,
                 fade: true,
+                arrows:  false,
                 autoplay: true
             });
         });
