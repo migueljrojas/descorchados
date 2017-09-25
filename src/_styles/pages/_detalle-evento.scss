@@ -1,0 +1,112 @@
+.detalle-evento {
+    .breadcrumb {
+        text-transform: uppercase;
+        font-size: 10px;
+        margin-top: 20px;
+        p {
+            color: $darkGray;
+            span {
+                &.active {
+                  color: #000;
+                  font-weight: 600;
+                  padding-left: 5px;
+                }
+            }
+        }
+    }
+
+    .detalle-evento__post {
+        padding: 50px 0;
+        &-img {
+            img {
+                width: 100%;
+                height: auto;
+            }
+        }
+
+        &-details {
+            .btn__lila {
+                color: #fff;
+                text-transform: uppercase;
+
+                p {
+                  background-color: $bgSecondary;
+                  width: 270px;
+                  border-radius: 5px;
+                  font-size: 12px;
+                  text-align: center;
+                  height: 32px;
+                  line-height: 32px;
+                }
+            }
+
+            &-date {
+                text-transform: uppercase;
+                font-size: 10px;
+                color: $midGray;
+            }
+
+            &-title {
+                font-family: $altFont;
+                font-size: 30px;
+                font-weight: 600;
+            }
+
+            &-text {
+                font-weight: 300;
+                color: $midGray;
+                font-size: 14px;
+                margin-bottom: 25px;
+            }
+        }
+
+        &-share-box {
+            border: 1px solid $lila;
+            width: 60px;
+            text-align: center;
+            padding: 10px 0;
+
+            &-title {
+                text-transform: uppercase;
+                font-size: 10px;
+                color: $midGray;
+            }
+        }
+    }
+
+    .detalle-evento__posts {
+        background-color: #eaeaea;
+        padding: 50px 0;
+
+        &-title {
+            font-size: 24px;
+            font-family: $altFont;
+            font-weight: 600;
+        }
+
+        &-item {
+          background-color: #fff;
+          padding: 0;
+          margin-right: 15px;
+          width: 32%;
+            img {
+                width: 100%;
+                height: auto;
+                max-height: 160px;
+            }
+
+            &-date {
+                color: $lila;
+                font-size: 10px;
+                padding: 20px 0 0 20px;
+            }
+
+            &-title {
+                font-size: 18px;
+                font-family: $altFont;
+                font-weight: 600;
+                padding: 0 0 20px 20px;
+            }
+        }
+    }
+}

@@ -5,4 +5,28 @@ block config
   - var baseUrl = '../'
 
 block content
-  p quienes-somos page
+    main.about
+        div.about__banner.container-fluid
+            h2.about__banner-title= site.data.about.nosotros.title
+            p.about__banner-text= site.data.about.nosotros.desc
+
+        section.container
+            each item in site.data.about.nosotros.items
+                .row.team
+                    .col-xs-24.col-md-8.col-lg-8.img__container
+                        img(src= item.img)
+
+                    .col-xs-24.col-md-16.col-lg-16.team__details
+                        p.team__details__name= item.name
+                        p.team__details__position= item.position
+                        ul.team__details__networks
+                            li.fb
+                                a(href= item.fburl)
+                                    i.fa.fa-facebook
+                            li.tw
+                                a(href= item.twurl)
+                                    i.fa.fa-twitter
+                            li.ig
+                                a(href= item.igurl)
+                                    i.fa.fa-instagram
+                        p.team__details__desc= item.description

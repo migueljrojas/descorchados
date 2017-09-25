@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/descorchados.iml" filepath="$PROJECT_DIR$/.idea/descorchados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../formulario-contacto-archivo-adjunto/.idea/formulario-contacto-archivo-adjunto.iml" filepath="$PROJECT_DIR$/../formulario-contacto-archivo-adjunto/.idea/formulario-contacto-archivo-adjunto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tmp/.idea/tmp.iml" filepath="$PROJECT_DIR$/../tmp/.idea/tmp.iml" />
       <module fileurl="file://$PROJECT_DIR$/../xsiweb/.idea/xsiweb.iml" filepath="$PROJECT_DIR$/../xsiweb/.idea/xsiweb.iml" />
     </modules>
   </component>

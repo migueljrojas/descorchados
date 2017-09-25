@@ -108,14 +108,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/main-bg.jpg" afterPath="$PROJECT_DIR$/../xsiweb/web/images/main-bg.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/novedades-prueba.jpg" afterPath="$PROJECT_DIR$/../xsiweb/web/images/novedades-prueba.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/web/images/yeogurt-swirl.png" afterPath="$PROJECT_DIR$/../xsiweb/web/images/yeogurt-swirl.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_data/footer.json" afterPath="$PROJECT_DIR$/src/_data/footer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_data/home.json" afterPath="$PROJECT_DIR$/src/_data/home.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_modules/footer/footer.jade" afterPath="$PROJECT_DIR$/src/_modules/footer/footer.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_modules/footer/footer.scss" afterPath="$PROJECT_DIR$/src/_modules/footer/footer.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_modules/slider/slider.js" afterPath="$PROJECT_DIR$/src/_modules/slider/slider.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_styles/main.scss" afterPath="$PROJECT_DIR$/src/_styles/main.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/_styles/pages/_home.scss" afterPath="$PROJECT_DIR$/src/_styles/pages/_home.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.jade" afterPath="$PROJECT_DIR$/src/index.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/descorchados.iml" afterPath="$PROJECT_DIR$/.idea/descorchados.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/.editorconfig" afterPath="$PROJECT_DIR$/../xsiweb/.editorconfig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/.eslintrc" afterPath="$PROJECT_DIR$/../xsiweb/.eslintrc" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../xsiweb/.gitattributes" afterPath="$PROJECT_DIR$/../xsiweb/.gitattributes" />
@@ -297,77 +292,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.jade" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/index.jade">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tmp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
-              <caret line="58" column="49" lean-forward="false" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+            <state relative-caret-position="76">
+              <caret line="213" column="93" lean-forward="false" selection-start-line="213" selection-start-column="30" selection-end-line="213" selection-end-column="93" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_data/home.json">
+      <file leaf-file-name="enviar.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../tmp/enviar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            <state relative-caret-position="79">
+              <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_modules/footer/footer.scss">
+      <file leaf-file-name="class.phpmailer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../formulario-contacto-archivo-adjunto/archivosformulario/class.phpmailer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="-153">
+              <caret line="83" column="62" lean-forward="true" selection-start-line="83" selection-start-column="62" selection-end-line="83" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.jade" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_modules/footer/footer.jade">
+      <file leaf-file-name="enviar.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../formulario-contacto-archivo-adjunto/enviar.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="416">
+              <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_data/footer.json">
+      <file leaf-file-name="formulario.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../formulario-contacto-archivo-adjunto/formulario.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="590">
-              <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_home.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_styles/pages/_home.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="224" column="30" lean-forward="false" selection-start-line="224" selection-start-column="30" selection-end-line="224" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/_styles/main.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="263">
+              <caret line="21" column="119" lean-forward="true" selection-start-line="21" selection-start-column="91" selection-end-line="21" selection-end-column="119" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>images</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -383,6 +363,11 @@
         <option value="$PROJECT_DIR$/src/index.jade" />
         <option value="$PROJECT_DIR$/src/_modules/footer/footer.jade" />
         <option value="$PROJECT_DIR$/src/_modules/footer/footer.scss" />
+        <option value="$PROJECT_DIR$/../tmp/styles/main.css" />
+        <option value="$PROJECT_DIR$/../tmp/index.html" />
+        <option value="$USER_HOME$/Escritorio/index.html" />
+        <option value="$PROJECT_DIR$/../formulario-contacto-archivo-adjunto/archivosformulario/class.phpmailer.php" />
+        <option value="$PROJECT_DIR$/../tmp/enviar.php" />
       </list>
     </option>
   </component>
@@ -432,91 +417,16 @@
           <expand>
             <path>
               <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="formulario-contacto-archivo-adjunto" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="bower_components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="formulario-contacto-archivo-adjunto" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="archivosformulario" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_data" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="footer" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="slider" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_styles" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_styles" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="mixins" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="descorchados" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_styles" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xsiweb" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xsiweb" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xsiweb" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xsiweb" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_styles" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="descorchados" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xsiweb" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_styles" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="tmp" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -526,9 +436,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xsiweb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../formulario-contacto-archivo-adjunto" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../tmp/archivosformulario" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -552,16 +467,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505060506355</updated>
-      <workItem from="1505060507954" duration="28142000" />
+      <workItem from="1505060507954" duration="41394000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28142000" />
+    <option name="totallyTimeSpent" value="41394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="44" width="1282" height="973" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25234374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -715,6 +629,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="49" lean-forward="false" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_data/home.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_modules/footer/footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_modules/footer/footer.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/_data/footer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="590">
@@ -731,14 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_modules/footer/footer.jade">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_styles/main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -747,26 +685,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_modules/footer/footer.scss">
+    <entry file="file://$PROJECT_DIR$/../tmp/scripts/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="25" lean-forward="false" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="-11322">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/_data/home.json">
+    <entry file="file://$PROJECT_DIR$/../tmp/styles/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="290">
+          <caret line="11977" column="28" lean-forward="false" selection-start-line="11977" selection-start-column="22" selection-end-line="11977" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.jade">
+    <entry file="file://$PROJECT_DIR$/../tmp/archivosformulario/class.phpmailer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="49" lean-forward="false" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="213" column="93" lean-forward="false" selection-start-line="213" selection-start-column="30" selection-end-line="213" selection-end-column="93" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Escritorio/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="241" column="104" lean-forward="false" selection-start-line="241" selection-start-column="104" selection-end-line="241" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../formulario-contacto-archivo-adjunto/formulario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="21" column="119" lean-forward="true" selection-start-line="21" selection-start-column="91" selection-end-line="21" selection-end-column="119" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../formulario-contacto-archivo-adjunto/archivosformulario/class.smtp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1887">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../formulario-contacto-archivo-adjunto/archivosformulario/class.phpmailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="83" column="62" lean-forward="true" selection-start-line="83" selection-start-column="62" selection-end-line="83" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../formulario-contacto-archivo-adjunto/enviar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tmp/enviar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="22" column="20" lean-forward="true" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
           <folding />
         </state>
       </provider>

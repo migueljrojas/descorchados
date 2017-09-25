@@ -1,0 +1,48 @@
+.profesionales {
+    .breadcrumb {
+        text-transform: uppercase;
+        font-size: 10px;
+        margin-top: 20px;
+        p {
+            color: $darkGray;
+            span {
+              &.active {
+                  color: #000;
+                  font-weight: 600;
+                  padding-left: 5px;
+              }
+            }
+        }
+    }
+    .profesionales__container {
+        background-color: #fff;
+        text-align: center;
+        width: 48%;
+        padding: 50px 0;
+        margin-bottom: 15px;
+
+        &.position-left {
+            margin-right: 15px;
+        }
+
+        .profesionales__icon {
+            background-color: #c3aa71;
+            width: 60px;
+            height: 60px;
+            line-height: 60px;
+            font-size: 22px;
+            border-radius: 50%;
+        }
+
+        .profesioanles__title {
+            font-size: 30px;
+        }
+
+        .profesionales__text {
+            font-size: 12px;
+            font-weight: 300;
+            color: $darkGray;
+        }
+
+    }
+}

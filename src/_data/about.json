@@ -1,0 +1,70 @@
+{
+    "nosotros" : {
+        "title" : "Quienes Somos",
+        "desc" : "Este es el equipo de Descorchados Sudamérica",
+        "items" : [
+            {
+                "img": "/images/about/team.jpg",
+                "name": "Patricio Tapia",
+                "position" : "Director General",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit egestas",
+                "fburl" : "https://www.facebook.com/",
+                "twurl" : "https://www.twitter.com/",
+                "igurl" : "https://www.instagram.com/"
+            },
+            {
+                "img": "/images/about/team.jpg",
+                "name" : "María Eugenia Berducci",
+                "position" : "Gerente Comercial de Argentina",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit egestas",
+                "fburl" : "https://www.facebook.com/",
+                "twurl" : "https://www.twitter.com/",
+                "igurl" : "https://www.instagram.com/"
+
+            },
+            {
+                "img": "/images/about/team.jpg",
+                "name" : "Gabriel Bosso",
+                "position" : "Productor General de Argentina y Uruguay",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit egestas",
+                "fburl" : "https://www.facebook.com/",
+                "twurl" : "https://www.twitter.com/",
+                "igurl" : "https://www.instagram.com/"
+
+            },
+            {
+                "img": "/images/about/team.jpg",
+                "name" : "Christian Burgos",
+                "position" : "Director de Brasil",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit egestas",
+                "fburl" : "https://www.facebook.com/",
+                "twurl" : "https://www.twitter.com/",
+                "igurl" : "https://www.instagram.com/"
+
+            },
+            {
+                "img": "/images/about/team.jpg",
+                "name" : "Claudia Caviedes",
+                "position" : "Diseñadora",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit egestas",
+                "fburl" : "https://www.facebook.com/",
+                "twurl" : "https://www.twitter.com/",
+                "igurl" : "https://www.instagram.com/"
+
+            },
+            {
+                "img": "/images/about/team.jpg",
+                "name" : "Lina Gomes",
+                "position" : "Gerente Comercial Colombia",
+                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit egestas",
+                "fburl" : "https://www.facebook.com/",
+                "twurl" : "https://www.twitter.com/",
+                "igurl" : "https://www.instagram.com/"
+
+            }
+
+        ]
+
+    }
+
+}

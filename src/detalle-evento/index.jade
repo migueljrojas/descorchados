@@ -1,0 +1,69 @@
+extends ../_layouts/base
+
+block config
+    //- Correct base url pathing for this page
+    - var baseUrl = '../'
+
+block content
+    main.detalle-evento
+        div.breadcrumb.container
+            p inicio > Eventos >
+                span.active Nombre del Evento
+
+        .container
+            .row.detalle-evento__post
+                .col-xs-24.col-md-8.detalle-evento__post-img
+                    img(src="/images/evento/evento.jpg")
+
+                .col-xs-20.col-md-12.detalle-evento__post-details
+                    p.detalle-evento__post-details-date
+                        i.fa.fa-calendar
+                        | 07 JUN 2017
+
+                    p.detalle-evento__post-details-title
+                        | Título del evento
+
+                    p.detalle-evento__post-details-text orem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit egestas tortor sit amet mollis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam tincidunt fringilla nunc. Curabitur in rhoncus lectus. Praesent laoreet ultrices ligula eu dictum. Cras bibendum finibus turpis, id varius elit sagittis tristique. Nullam sem est, dapibus eget elit sed, malesuada viverra nibh. Donec pulvinar felis eu libero finibus, in hendrerit felis mattis.
+
+                    a.btn__lila
+                        p Me quiero inscribir en el evento
+
+                .col-xs-4.col-md-4.detalle-evento__post-share
+                    .detalle-evento__post-share-box
+                        p.detalle-evento__post-share-box-title Share
+                        ul.detalle-evento__post-share-networks
+                            li.fb
+                                a(href="https://www.facebook.com/")
+                                    i.fa.fa-facebook
+                            li.tw
+                                a(href="https://www.twitter.com/")
+                                    i.fa.fa-twitter
+                            li.fb
+                                a(href="https://www.facebook.com/")
+                                    i.fa.fa-envelope-o
+
+        .container-fluid.detalle-evento__posts
+            .container
+                p.detalle-evento__posts-title Otros Eventos
+
+                .row
+                    .col-xs-24.col-md-8.detalle-evento__posts-item
+                        img(src="/images/evento/evento1.jpg")
+                        p.detalle-evento__posts-item-date
+                            i.fa.fa-calendar
+                                | 07 JUN 2017
+                        p.detalle-evento__posts-item-title Título del Evento
+
+                    .col-xs-24.col-md-8.detalle-evento__posts-item
+                        img(src="/images/evento/evento2.jpg")
+                        p.detalle-evento__posts-item-date
+                            i.fa.fa-calendar
+                                | 07 JUN 2017
+                        p.detalle-evento__posts-item-title Título del Evento
+
+                    .col-xs-24.col-md-8.detalle-evento__posts-item
+                        img(src="/images/evento/evento3.jpg")
+                        p.detalle-evento__posts-item-date
+                            i.fa.fa-calendar
+                                | 07 JUN 2017
+                        p.detalle-evento__posts-item-title Título del Evento

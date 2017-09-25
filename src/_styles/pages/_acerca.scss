@@ -1,0 +1,32 @@
+.acerca {
+  &__banner {
+    background-color: #161616;
+    text-align: center;
+    color: #fff;
+    padding: 20px 0;
+
+    &-text {
+      font-family: $altFont;
+      font-size: 24px;
+    }
+
+  }
+
+  &__content.container {
+      width: 800px;
+      padding: 25px 0;
+
+      p {
+          color: $darkGray;
+          font-weight: 300;
+          font-size: 14px;
+
+      }
+
+      img {
+          width: 100%;
+          height: auto;
+      }
+
+  }
+}

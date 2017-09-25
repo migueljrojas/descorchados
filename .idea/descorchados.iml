@@ -5,5 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="xsiweb" />
+    <orderEntry type="module" module-name="tmp" />
+    <orderEntry type="module" module-name="formulario-contacto-archivo-adjunto" />
   </component>
 </module>
