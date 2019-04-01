@@ -1,6 +1,6 @@
 .footer {
     background: $darkestGray;
-    padding: 40px 0;
+    padding: 20px 0;
     color: $white;
     text-align: left;
     font-size: $xxs;
@@ -9,11 +9,115 @@
     a{
         color:$white;
         display: block;
-        margin-bottom: 5px;
         text-transform: uppercase;
 
         &:hover {
             color:$lila;
+        }
+    }
+
+    &__logo {
+        position: relative;
+        height: 70px;
+        width: 100px;
+
+        @include mq(md) {
+            width: 150px;
+        }
+
+        svg {
+            position: absolute;
+            left: 0;
+            fill: $white;
+            width: 100%;
+            height: 100%;
+            transition: all $duration $easing;
+
+            // top: 10px;
+
+            @include mq(md){
+                // height: 110px;
+                top:0;
+                // width: 400px;
+            }
+        }
+
+    }
+
+    &__divider {
+        background: $midGray;
+        height: 1px;
+        margin: 20px 0;
+    }
+
+    &__container {
+        &--top {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        &--middle {
+            ul {
+                @include mq(md) {
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+
+                li {
+                    &:not(:last-child) {
+                        margin-bottom: 10px;
+
+                        @include mq(md) {
+                            margin-bottom: 0;
+                            margin-right: 25px;
+                        }
+                    }
+                }
+            }
+        }
+
+        &--bottom {
+            text-align: center;
+
+            @include mq(md) {
+                text-align: auto;
+                display: flex;
+                justify-content: space-between;
+            }
+
+            p {
+                text-transform: uppercase;
+                color: $midGray;
+                font-weight: 700;
+                font-size: 10px;
+                margin: 0;
+
+                &:first-child {
+                    margin-bottom: 10px;
+
+                    @include mq(md) {
+                        margin-bottom: 0;
+                    }
+                }
+            }
+        }
+    }
+
+    &__social {
+        &__list {
+            display: flex;
+            justify-content: space-between;
+            width: 100px;
+
+            @include mq(md) {
+                width: 150px;
+            }
+
+            i {
+                font-size: 24px;
+            }
         }
     }
 

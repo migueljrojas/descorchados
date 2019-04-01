@@ -4,20 +4,20 @@
         "url":"/apuntes"
     },
     {
-        "name":"eventos",
-        "url":"/eventos"
+        "name":"Descorchados en Viaje",
+        "url":"/descorchados-en-viaje"
     },
     {
         "name":"Vino de la Semana",
         "url":"/vino-semana"
     },
     {
-        "name":"Sesiones",
-        "url":"/sesiones"
-    },
-    {
         "name":"Más que vinos",
         "url":"/mas-que-vinos"
+    },
+    {
+        "name":"Acerca de Descorchados",
+        "url":"/acerca-de"
     },
     {
         "name":"Quienes somos",

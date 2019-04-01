@@ -1,21 +1,32 @@
 footer.footer
     .container
         .row
-            .col-xs-24.col-md-8
-                p.copyright= site.data.footer.footer.copyright
-            .col-xs-24.col-md-6
-                ul
-                    each item in site.data.footer.footer.items1
-                        li
-                            a(href=item.url)= item.name
-            .col-xs-24.col-md-6
-                ul
-                    each item in site.data.footer.footer.items2
-                        li
-                            a(href=item.url)= item.name
-            .col-xs-24.col-md-4.redes
-                ul
-                    each item in site.data.footer.footer.redes
-                        li.network
-                            a(href=item.url)
-                                i(class=item.name)
+            .col-xs-24
+                .footer__container.footer__container--top
+                    .footer__logo
+                        a(href="/")
+                            | <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use></svg> 
+                    .footer__social
+                        ul.footer__social__list
+                            each red in site.data.social
+                                li
+                                    a(href=red.url, target="_blank")
+                                        i(class="fa fa-#{red.name}")
+    .footer__divider
+
+    .container
+        .row
+            .col-xs-24
+                .footer__container.footer__container--middle
+                    ul
+                        each item in site.data.header
+                            li
+                                a(href=item.url)= item.name
+    .footer__divider
+
+    .container
+        .row
+            .col-xs-24
+                .footer__container.footer__container--bottom
+                    p &copy 2019 descorchados
+                    p website made by dante interactive

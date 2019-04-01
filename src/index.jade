@@ -5,61 +5,54 @@ include _modules/slider/slider
 block content
     main.home
         section.home__hero
-            +slider('home__slider')
-                each slide in site.data.home.slider
-                    .home__slider__slide(style="background:url(#{slide.img}) no-repeat bottom center; background-size:cover;")
-                        .container
-                            .home__slider__data
-                                p=slide.desc
-                                h2=slide.title
-                                a._button.-white(href=slide.btn.url)= slide.btn.text
-
+            .home__hero__image
+                img(src="/images/home/main.jpg")
+            .home__hero__content
+                .home__hero__wrapper
+                    h3.home__hero__subtitle sebastián Zuccardi
+                    h2.home__hero__title Profundizar en vez de expandir
+                    a.home__hero__button(href="#") descubrir
         section.apuntes
-            .container-fluid
+            .container
                 .row
-                    h2= site.data.home.apuntes.title
-                    each item in site.data.home.apuntes.items
-                        .apuntes__item.col-xs-24.col-sm-12.col-lg-6
-                            a(href="/detalle-nota")
-                                .apuntes__item-img
+                    .apuntes__item.col-xs-24.col-sm-15
+                        h2.apuntes__title= site.data.home.apuntes.title
+                        each item in site.data.home.apuntes.items
+                            a.apuntes__item__wrapper(href="/detalle-nota")
+                                .apuntes__item__image
                                     img(src=item.img)
-                                div.apuntes__item-data
-                                    div.apuntes__item-data-icon
-                                        <i class="fa fa-file-text"></i>
-                                    p.apuntes__item-data-category= item.category
-                                    p.apuntes__item-data-title= item.title
-                                    p.apuntes__item-data-desc= item.desc
-                                    div.apuntes__item-data-bottom
-                                        p.apuntes__item-data-author= item.author
-                                        p.apuntes__item-data-date= item.date
-
-        section.categorias
-            .container-fluid
-                .row
-                    each item in site.data.home.categorias.items
-                        .categorias__item.col-xs-24.col-sm-12.col-lg-8
-                            a(href=item.url)
-                                h2= item.name
-                                .categorias__item-img
-                                    img(src=item.img)
-                                div.categorias__item-data
-                                    div.categorias__item-data-icon
-                                        if item.icon.type == "img"
-                                            img(src="/images/home/#{item.icon.desc}")
-                                        if item.icon.type == "text"
-                                            i.material-icons= item.icon.desc
-                                    p.categorias__item-data-category= item.category
-                                    p.categorias__item-data-title= item.title
-                                    div.categorias__item-data-bottom
-                                        p.categorias__item-data-author= item.author
-                                        p.categorias__item-data-date= item.date
-
-        section.redes
-            .container-fluid
-                .row
-                    h2= site.data.home.redes.title
-                    each item in site.data.home.redes.items
-                        .redes__item.col-xs-24.col-sm-12.col-lg-8
-                            .redes__item-container
-                                i(class=item.class)
-                                p.redes__item-title= item.title
+                                .apuntes__item__data
+                                    p.apuntes__item__data--subtitle= item.subtitle
+                                    p.apuntes__item__data--title= item.title
+                                    p.apuntes__item__data--desc= item.desc
+                                    p.apuntes__item__data--button Leer
+                        .apuntes__decoration
+                            img(src="#")
+                        button.apuntes__more-button Cargar más
+                        
+                    .col-xs-24.col-sm-8.col-sm-offset-1
+                        h2.apuntes__title.apuntes__title--alt Destacados
+                        .row.apuntes__container
+                            each item in site.data.home.destacados.items
+                                .categorias__item.col-xs-24
+                                    a(href=item.url)
+                                        .categorias__item-img
+                                            img(src=item.img)
+                                        .categorias__item-data
+                                            p.categorias__item-data-category= item.category
+                                            p.categorias__item-data-title= item.title
+        .home__bottom-pattern
+            img(src="/images/home/footer-pattenr.png")
+                        
+        //- section.categorias
+        //-     .container-fluid
+        //- //- 
+        //- section.redes
+        //-     .container-fluid
+        //-         .row
+        //-             h2= site.data.home.redes.title
+        //-             each item in site.data.home.redes.items
+        //-                 .redes__item.col-xs-24.col-sm-12.col-lg-8
+        //-                     .redes__item-container
+        //-                         i(class=item.class)
+        //-                         p.redes__item-title= item.title

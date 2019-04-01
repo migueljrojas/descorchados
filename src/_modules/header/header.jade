@@ -1,14 +1,15 @@
 header.header
     .container.header__container
         .header__logo.wow.fadeInDown
+            img(src="/images/home/wine-cup-icon.png")
             a(href="/")
-                | <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo"></use></svg> 
+                | <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#logo-horz"></use></svg> 
         
         .header__hamburguer.wow.fadeInRight
             span
             span
             span
-            
+
         nav.header__nav
             a.header__nav__close
                 span
@@ -25,25 +26,27 @@ header.header
 
             .header__social
                 a.header__login(href="#")
+                    i.material-icons-outlined account_circle
                     | Ingresar
-                    i.material-icons account_circle
-                    
+                select.header__language
+                    option español
+                    option ingles
                 ul.header__social__list
                     each red in site.data.social
                         li
                             a(href=red.url, target="_blank")
                                 i(class="fa fa-#{red.name}")
                                 
-                a.header__pro(href="/area-profesionales")
-                    i.material-icons school
-                    | Area profesionales
-    
-    form.header__search
-        .container
+                a.header__pro(href="#")
+                    img(src="/images/home/barrel-icon.png")
+                    p Area bodegas
+
+    .container
+        form.header__search
+            input.header__search__input(type="text", placeholder="Busca tu vino aquí")
             button.header__search__button
                 i.material-icons search
-            input.header__search__input(type="text", placeholder="Busca tu vino acá")
-            
-            a.header__search__advanced(href="/busqueda-avanzada")
-                | Búsqueda Avanzada
-                i.material-icons arrow_downward
+            //- 
+            //- a.header__search__advanced(href="/busqueda-avanzada")
+            //-     | Búsqueda Avanzada
+            //-     i.material-icons arrow_downward
