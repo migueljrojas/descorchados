@@ -5,4 +5,92 @@ block config
   - var baseUrl = '../'
 
 block content
-  p vino-semana page
+    main.detalle-vino
+        div.breadcrumb.container
+            p inicio > Vino de la semana >
+                span.active Nombre del Vino
+        
+        section.detalle-vino__hero
+            .container
+                .row
+                    .col-xs-18.col-sm-16.col-sm-offset-4
+                        .row
+                            .col-xs-24.col-sm-6.detalle-vino__hero-bottle
+                                img.img-responsive(src="/images/vino/vino-semana.png")
+                            .col-xs-24.col-sm-18
+                                ul.detalle-vino__hero-data
+                                    li
+                                        .detalle-vino__hero-data__badge
+                                            span._amount 97
+                                            span._points points
+                                    li
+                                        h1.detalle-vino__hero-data__name Almaviva
+                                        h2.detalle-vino__hero-data__from Almaviva, Puente Alto, Chile
+                                        p.detalle-vino__hero-data__type Cabernet Suavignon
+                                    li
+                                        .detalle-vino__hero-data__pair
+                                            span._label Cosecha
+                                            span._item 2014
+                                    li
+                                        .detalle-vino__hero-data__pair
+                                            span._label Precio
+                                            span._item $$$$$
+                                    li
+                                        .detalle-vino__hero-data__pair
+                                            span._label Alcohol en etiqueta
+                                            span._item 14.5
+                                    li
+                                        .detalle-vino__hero-data__pair.detalle-vino__hero-data__pair--nota
+                                            span._label Nota de Cata
+                                            p._desc Un año de menor rendimiento ha dado un Epu concentrado, sin perder fineza. Suave, redondo, de los mejores que yo recuerde.
+                                .detalle-vino__hero-data__import
+                                    h4 Informacion del Importador
+                                    p Emilio Mitre 232, Calafate, Santa Cruz 0 11 4458 9823
+                                
+                    .col-xs-6.col-sm-4
+                        .detalle-evento__post-share-box
+                            p.detalle-evento__post-share-box-title Share
+                            ul.detalle-evento__post-share-networks
+                                li.fb
+                                    a(href="https://www.facebook.com/")
+                                        i.fa.fa-facebook
+                                li.tw
+                                    a(href="https://www.twitter.com/")
+                                        i.fa.fa-twitter
+                                li.fb
+                                    a(href="https://www.facebook.com/")
+                                        i.fa.fa-envelope-o
+        
+        section.detalle-vino__desc
+            .container
+                .row
+                    .col-xs-24
+                        h2 Almaviva
+                        p Michel Friou llegó a Chile en 1995 para trabajar en Alto Maipo, en la bodega Aquitania. Un año más tarde se hizo cargo de Lapostolle, durante los años en que esta bodega fue fundamental para el desarrollo del vino en Chile, en un tiempo en que lo que se buscaba, (y aún se busca) era definición de un estilo. En el 2007, la sociedad entre Mouton Rothshild y Concha y Toro lo llamó para hacerse cargo de Almaviva. Así Friou se convirtió en el tercer enólogo de esta bodega del Maipo, en la zona de Puente Alto, una de las más tradicionales del vino chileno, hogar de nombres ilustres como Don Melchor o Viñedo Chadwick, sólo por nombrar algunos. Almaviva comparte con todos ellos los históricos viñedos de la familia Tocornal, que hoy mantiene viñedos de cabernet sauvignon con más de 40 años de antigüedad. Ese es el material con el que cuenta Friou, el que es sin duda, uno de los más codiciados del vino chileno. En total, son sesenta hectáreas de El Tocornal con las cuales Almaviva hace dos vinos. Uno de ellos es Epu, una suerte de "deuxime vin" de la casa. Se trata de una selección de vinos que, generalmente, se realiza en agosto, cuando hay vinos en barricas y tanques de acero. A esas alturas, el vino está casi listo en su fase de fermentación (sobre todo con la maloláctica, que es un paso crucial para que la suavidad del vino esté completa) y sólo queda decidir qué vinos irán a la mezcla final. "Del total de litros que vinificamos, entre el 50% y 55% va para Almaviva, y de un 10% a un 15% va para Epu. El saldo lo vendemos a granel" –explica Friou. La cosecha 2014 fue de rendimientos más bien bajos. Diciembre y enero fueron calurosos en Tocornal, lo que adelantó en algo la cosecha. "No hubo excesos" –dice Friou. Epu 2014 es una excelente versión de este tinto, una mezcla de 69% de cabernet sauvignon, 17% de carménère, 10% de merlot, y el resto de cabernet franc. La fruta se siente muy viva, madura, untuosa, con sus taninos refinados y pulidos. No hay excesos en este vino, o tal como dice Friou, no hubo excesos en la cosecha. Almaviva este año tiene un 68% de cabernet sauvignon, 22% de carménère, 8% de cabernet franc y 8% de petit verdot, se cría en barricas por 18 meses, el 75% son nuevas. Este año, más concentrado, de mayor madurez, ha marcado a este Almaviva 2014. Pero esto no significa que sea un Almaviva más corpulento, sino más bien un vino de mayor concentración, pero a la vez muy refinado, con taninos pulidos, integrados con la fruta, como si fuesen partes fusionadas antes que componentes distintos. Y eso es sorprendente, dada su edad y juventud. Una excelente muestra de Almaviva, en un año que pudo haber sido cálido, pero que bajo la mano de Friou, ha dado un verdadero clásico.
+
+
+        section.detalle-vino__related
+            .container
+                h2.detalle-vino__related__title Vinos Relacionados
+                .row
+                    .col-xs-24.col-sm-8
+                        .detalle-vino__related__item
+                            .detalle-vino__related__item-img
+                                img(src="/images/vino/related1.jpg")
+                            .detalle-vino__related__item-content
+                                h3.detalle-vino__related__item-title AltaCima
+                                p.detalle-vino__related__item-cat Grandes vinos San Pedro
+                    .col-xs-24.col-sm-8
+                        .detalle-vino__related__item
+                            .detalle-vino__related__item-img
+                                img(src="/images/vino/related2.jpg")
+                            .detalle-vino__related__item-content
+                                h3.detalle-vino__related__item-title Altamana
+                                p.detalle-vino__related__item-cat Grandes vinos San Pedro
+                    .col-xs-24.col-sm-8
+                        .detalle-vino__related__item
+                            .detalle-vino__related__item-img
+                                img(src="/images/vino/related3.jpg")
+                            .detalle-vino__related__item-content
+                                h3.detalle-vino__related__item-title Anakena
+                                p.detalle-vino__related__item-cat Grandes vinos San Pedro

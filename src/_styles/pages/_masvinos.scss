@@ -1,0 +1,17 @@
+.masvinos {
+    &__content {
+        p {
+            font-weight: 300;
+            font-size: 14px;
+        }
+    }
+
+    &__title {
+        font-size: 28px;
+        font-family: $altFont;
+
+        @include mq(md){
+            font-size: 40px;
+        }
+    }
+}

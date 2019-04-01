@@ -7,7 +7,7 @@ block content
         section.home__hero
             +slider('home__slider')
                 each slide in site.data.home.slider
-                    .home__slider__slide(style="background:url(#{slide.img}) no-repeat top right;")
+                    .home__slider__slide(style="background:url(#{slide.img}) no-repeat bottom center; background-size:cover;")
                         .container
                             .home__slider__data
                                 p=slide.desc
@@ -20,32 +20,39 @@ block content
                     h2= site.data.home.apuntes.title
                     each item in site.data.home.apuntes.items
                         .apuntes__item.col-xs-24.col-sm-12.col-lg-6
-                            .apuntes__item-img(style="background:url(#{item.img}) no-repeat center center;")
-                            div.apuntes__item-data
-                                div.apuntes__item-data-icon
-                                    <i class="fa fa-file-text"></i>
-                                p.apuntes__item-data-category= item.category
-                                p.apuntes__item-data-title= item.title
-                                p.apuntes__item-data-desc= item.desc
-                                div.apuntes__item-data-bottom
-                                    p.apuntes__item-data-author= item.author
-                                    p.apuntes__item-data-date= item.date
+                            a(href="/detalle-nota")
+                                .apuntes__item-img
+                                    img(src=item.img)
+                                div.apuntes__item-data
+                                    div.apuntes__item-data-icon
+                                        <i class="fa fa-file-text"></i>
+                                    p.apuntes__item-data-category= item.category
+                                    p.apuntes__item-data-title= item.title
+                                    p.apuntes__item-data-desc= item.desc
+                                    div.apuntes__item-data-bottom
+                                        p.apuntes__item-data-author= item.author
+                                        p.apuntes__item-data-date= item.date
 
         section.categorias
             .container-fluid
                 .row
                     each item in site.data.home.categorias.items
                         .categorias__item.col-xs-24.col-sm-12.col-lg-8
-                            h2= item.name
-                            .categorias__item-img(style="background:url(#{item.img}) no-repeat center center;")
-                            div.categorias__item-data
-                                div.categorias__item-data-icon
-                                    <i class="fa fa-file-text"></i>
-                                p.categorias__item-data-category= item.category
-                                p.categorias__item-data-title= item.title
-                                div.categorias__item-data-bottom
-                                    p.categorias__item-data-author= item.author
-                                    p.categorias__item-data-date= item.date
+                            a(href=item.url)
+                                h2= item.name
+                                .categorias__item-img
+                                    img(src=item.img)
+                                div.categorias__item-data
+                                    div.categorias__item-data-icon
+                                        if item.icon.type == "img"
+                                            img(src="/images/home/#{item.icon.desc}")
+                                        if item.icon.type == "text"
+                                            i.material-icons= item.icon.desc
+                                    p.categorias__item-data-category= item.category
+                                    p.categorias__item-data-title= item.title
+                                    div.categorias__item-data-bottom
+                                        p.categorias__item-data-author= item.author
+                                        p.categorias__item-data-date= item.date
 
         section.redes
             .container-fluid
@@ -56,4 +63,3 @@ block content
                             .redes__item-container
                                 i(class=item.class)
                                 p.redes__item-title= item.title
-                                img(src=item.img)

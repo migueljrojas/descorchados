@@ -1,0 +1,27 @@
+.pagination {
+    display: inline-flex;
+    justify-content: center;
+    border-left: 1px solid $lightGray;
+    border-bottom: 1px solid $lightGray;
+
+    .page {
+        background: $white;
+        border-right: 1px solid $lightGray;
+        border-top: 1px solid $lightGray;
+        width: 36px;
+        height: 36px;
+        text-align: center;
+        line-height: 36px;
+        cursor: pointer;
+
+        i {
+            line-height: 36px;
+        }
+
+        &.-active {
+            background: $lila;
+            color: $white;
+            cursor: default;
+        }
+    }
+}

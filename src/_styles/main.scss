@@ -33,9 +33,7 @@ body {
 
     //temp
     background: #f5f5f5;
-  .container {
-    padding: 0;
-  }
+
 }
 
 main,
@@ -44,9 +42,9 @@ footer {
 }
 
 main {
-    padding-top: 50px;
+    padding-top: 130px;
     @include mq(md){
-        padding-top: 80px;
+        padding-top: 0;
     }
 }
 

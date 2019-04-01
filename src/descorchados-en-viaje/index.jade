@@ -5,4 +5,46 @@ block config
   - var baseUrl = '../'
 
 block content
-  p descorchados-en-viaje page
+    main.eventos
+        div.breadcrumb.container
+            p inicio > 
+                span.active Descrchados en Viaje
+        .eventos__month__wrapper
+            .container
+                .row
+                    .col-xs-24
+                        .eventos__month
+                            a._arrow.-left(href="#")
+                                i.material-icons chevron_left
+                            h1.eventos__month__head Junio 2017
+                            a._arrow.-right(href="#")
+                                i.material-icons chevron_right
+        section.eventos__list__wrapper
+            .container
+                .row
+                    .col-xs-24
+                        ul.eventos__list
+                            each item in site.data.eventos
+                                li.eventos__list__item
+                                    ._img
+                                        img(src=item.img)
+                                    ._content
+                                        .eventos__list__item-date
+                                            i.fa.fa-calendar
+                                            span._day 07
+                                            span._month jun
+                                            span._year 2017
+                                            
+                                        h2.eventos__list__item-name= item.name
+                                        p.eventos__list__item-desc= item.desc
+                                        a._view-more(href="/detalle-evento") leer más
+                                    
+        section.eventos__pagination
+            .pagination
+                a.page._prev
+                    i.material-icons chevron_left
+                a.page.-active 1
+                a.page 2
+                a.page 3
+                a.page._next
+                    i.material-icons chevron_right

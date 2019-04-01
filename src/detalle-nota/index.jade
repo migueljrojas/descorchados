@@ -1,0 +1,95 @@
+extends ../_layouts/base
+
+block config
+  //- Correct base url pathing for this page
+  - var baseUrl = '../'
+
+block content
+    main.nota
+        section.nota__hero
+            .container
+                .row
+                    .col-xs-24
+                        h1.nota__title Descorchados Argentina 2016
+                        h2.nota__subtitle La luz en Mendoza
+                        p.nota__autor Patricio Tapia
+                        p.nota__fecha Mayo 25, 2017
+                        ul.nota__hero__social
+                            li
+                                a(href=site.data.social[1].url)
+                                    i(class="fa fa-#{site.data.social[1].name}")
+                            li
+                                a(href=site.data.social[2].url)
+                                    i(class="fa fa-#{site.data.social[2].name}")
+                            li
+                                a(href=site.data.social[3].url)
+                                    i(class="fa fa-#{site.data.social[3].name}")
+                    
+            .nota__hero__foto
+                img(src="/images/home/slider.jpg")
+        
+        section.nota__content
+            .container
+                .row.nopadding-selective
+                    .col-xs-6.col-sm-4
+                        .detalle-evento__post-share-box
+                            p.detalle-evento__post-share-box-title Share
+                            ul.detalle-evento__post-share-networks
+                                li.fb
+                                    a(href="https://www.facebook.com/")
+                                        i.fa.fa-facebook
+                                li.tw
+                                    a(href="https://www.twitter.com/")
+                                        i.fa.fa-twitter
+                                li.fb
+                                    a(href="https://www.facebook.com/")
+                                        i.fa.fa-envelope-o
+                    .col-xs-18.col-sm-16
+                        p.wow.fadeInUp Esa luz. Radiante, fresca, como si vibrara sobre los ojos. El sol en las alturas del Valle de Uco ilumina de una forma especial, como si primero reflejara sus rayos sobre la nieve, allá arriba en la cordillera, y después bajara rebotando alegremente hasta las laderas andinas, cargado de energía. Cuando se habla de lo espectacular del paisaje de Mendoza, necesariamente habría que partir por esa luz.
+                        p.wow.fadeInUp Esa luz y después los picos cordilleranos que cortan el horizonte como lo haría una navaja oxidada. Y las brisas que hacen que todo ese sol sea más llevadero y las aguas frescas que se deslizan desde Los Andes y la vegetación de espinos que, de tanto en tanto, se interpone entre los suelos de arenas y piedras blancas. Y las flores que crecen vaya uno a saber con qué agua. Y los valles, más abajo, flaqueando los ríos y finalmente la ciudad de Mendoza, con un verdor tan fresco como inesperado.
+                        p.wow.fadeInUp Estamos en un desierto. Las lluvias son escasas. No superan los 200 milímetros anuales, muy poco para cultivar viñedos de secano. El secreto ha sido, históricamente, los deshielos de Los Andes que bajan como ríos todo el año. Pero también la más reciente tecnología del riego por goteo y los profundos pozos que permiten, entre otras cosas, que las zonas más altas (y nuevas) del  Valle de Uco se vuelva verdes y den vinos.
+                        p.wow.fadeInUp Me gusta Mendoza. Me siento bien allí. Me gusta ver a través de la ventana o caminando entre los viñedos cómo la Cordillera siempre está presente; un monstruo enorme y de diseño apoteósico, mirando desde lo lejos, con sus frías brisas haciendo que todo cambie, tanto el paisaje como los vinos. Sobre todo los vinos, pero también los tomates (entre los mejores tomates del mundo, si me lo permiten) y las lechugas y los ajos y, por cierto, también las truchas que deben ser el secreto mejor guardado y más injustamente olvidado en una tierra de carnívoros con una sed interminable por el asado.
+                        p.wow.fadeInUp Esa es la tierra de los mejores malbec de Argentina. Algo más del 70% del vino argentino se produce en Mendoza y algo más del 85% del malbec, así es que –siendo rigurosos- para hablar de malbec habría que partir por las tierras cuyanas que es la que mayor diversidad ofrece con la cepa y también la que más ha profundizado en sus cualidades. Para ponerlo de forma resumida, no hay sólo hay un malbec mendocino, sino que muchos. Cada vez más.
+                        p.wow.fadeInUp Viajo por el vino a Mendoza desde más o menos 1997 y he tenido el privilegio de ver cómo las cosas han cambiado. Tal como en otras zonas vitícolas del Nuevo Mundo (y del viejo también) los estilos han mutado de una forma, muchas veces, radical. En la breve pero intensa historia del malbec mendocino, se ha pasado desde vinos hechos de manera brutal, tintos producidos para impresionar por su dulzor, por su porte, por la cantidad de madera que se usó en ellos, hasta las últimas versiones más ligeras y frescas, más bebibles; tintos que –como debe ser- están diseñados para refrescar la comida. Y aunque se puede decir lo mismo del cabernet sauvignon chileno y hasta del tannat uruguayo, el caso del malbec es especial.
+                        h2.wow.fadeInUp Una ventana abierta
+                        p.wow.fadeInUp Entre las muchas conversaciones que tuve con enólogos argentinos para la producción de esta versión de Descorchados, recuerdo lo que me dijo Mariano di Paola, de Bodegas Rutini en el Valle de Uco. En un momento, hace algunos años y probando sus vinos -me cuenta- se percató de que todos se parecían, que en una cata a ciegas no fue capaz de reconocerlos, que todos sabían y olían muy parecidos. Di Paola atribuye este asunto a la sobre madurez, a la tendencia en el vino argentino (y en especial en el malbec) a dejar las uvas colgando de la parra por demasiado tiempo, con el objeto de lograr ese dulzor que, según nos han contado hasta el hartazgo, es lo que el consumidor quiere, lo que el consumidor busca.
+                        p.wow.fadeInUp Una buena parte del éxito que ha tenido e`l malbec en los mercados internacionales es probable que se deba a esa aptitud del malbec por crear vinos opulentos y a la vez suaves, de “taninos dulces” como suelen decir los productores mendocinos. Vinos que a la vez son redondos y suculentos. Por las mismas razones, el syrah tuvo tanto éxito en los años 90: “Como un cabernet, pero sin el dolor de los taninos” se dijo, quizás generalizando demasiado.
+                    .col-xs-24.nopad-col
+                        img.img-responsive.wow.fadeInUp(src="/images/nota/nota-full.jpg")
+                        
+                    .col-xs-6.col-sm-4
+                    .col-xs-18.col-sm-16
+                        p.wow.fadeInUp El tema es el siguiente. El malbec, por genética, tiene poca cantidad de pirazinas, es decir, sabores y aromas verdes de los que el 99,9% de los productores huyen como de la peste. Y puede ser cierto. Si el vino está hecho de uvas, que son frutas, nadie quiere comerse una fruta que no esté madura. Así de simple. Pero como tiene poca pirazina, la ventana de cosecha es muy amplia. Eso, en términos simples, quiere decir que yo puedo cosechar un malbec en su estado primario de madurez (cuando ya las uvas están ricas para comerlas solas) o bien cosecharlas muy tarde, casi como pasas. Entre uno y otro estado puede haber, cuando menos, un mes entero de diferencia.
+                        p.wow.fadeInUp Durante mis primeros viajes a Mendoza y también varios años más tarde, usualmente los productores justificaban el dulzor y la madurez enjundiosa de sus vinos con el hecho de que ésa era la madurez correcta del malbec, que así debía ser. Esto se corroboraba con el éxito que enólogos consultores externos como Paul Hobbs y Michel Rolland tenían con sus vinos extra maduros y untuosos hechos en Argentina. Ese parecía ser el camino correcto.
+                        p.wow.fadeInUp Muchas de las más acaloradas (y, por cierto, entretenidas) discusiones que tuve durante la primera vez que me junté con los productores para Descorchados Argentina, en 2011, giraron en torno a ese tema: ¿Por qué no cosechas antes en busca de mayor frescor? ¿No crees que la madurez excesiva es un motivo para que el origen del malbec se pierda, para que todos sepan a lo mismo?
+                        
+                    .col-xs-24.col-sm-12.nopad-col
+                        img.img-responsive.wow.fadeInUp(src="/images/nota/nota-half.jpg")
+                    .col-xs-24.col-sm-12
+                        h2 Sentido de lugar
+                        p.wow.fadeInUp La idea es simple. No hay un solo malbec, sino que muchos. Partiendo por el hecho de esa ventana amplia de cosecha que le permite al productor elegir un estilo, de acuerdo a lo que él cree que debe ser el malbec. Pero también está el lugar, la forma en la que el malbec se adapta de acuerdo al suelo y al clima en donde crece. Este asunto es nuevo.
+                        p.wow.fadeInUp Las primeras pruebas que definían al malbec como una cepa capaz de interpretar un lugar se dieron con los ensayos de Catena en sus viñedos de Gualtallary, plantados hacia 1996. De los primeros vinos de viñedos que yo probé, se cuentan las “fincas” de Achaval Ferrer. La primera en 1999, Altamira, de un viñedo plantado en 1925 a orillas del rio Tunuyán. Luego, en 2000 nació Finca Mirador, un viñedo plantado entre 1928 y 1942, en la zona de Medrano. En ambos casos se trataba de vinos cien por cien malbec, de parras viejas, pero de zonas muy distintas, tanto en suelo como en clima. Era normal, entonces, que los dos vinos fueron completamente diferentes.
+        section.nota__related
+            .container
+                .row
+                    .col-xs-24.col-sm-8
+                        .nota__related__item
+                            .nota__related__item-img
+                                img(src="/images/nota/related1.jpg")
+                            .nota__related__item-content
+                                p.nota__related__item-cat Noticias
+                                h3.nota__related__item-title Agna aliqua ut enim ad minim veniam, quis nostrud.
+                    .col-xs-24.col-sm-8
+                        .nota__related__item
+                            .nota__related__item-img
+                                img(src="/images/nota/related2.jpg")
+                            .nota__related__item-content
+                                p.nota__related__item-cat Noticias
+                                h3.nota__related__item-title Laboris nisi ut aliquip ex ea commodo consequat. 
+                    .col-xs-24.col-sm-8
+                        .nota__related__item
+                            .nota__related__item-img
+                                img(src="/images/nota/related3.jpg")
+                            .nota__related__item-content
+                                p.nota__related__item-cat Noticias
+                                h3.nota__related__item-title Irure dolor in reprehenderit in voluptate velit esse cillum.

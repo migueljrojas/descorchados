@@ -3,13 +3,14 @@
     padding: 40px 0;
     color: $white;
     text-align: left;
-    font-size: $xs;
-    font-weight: 600;
+    font-size: $xxs;
+    font-weight: 500;
 
     a{
         color:$white;
         display: block;
         margin-bottom: 5px;
+        text-transform: uppercase;
 
         &:hover {
             color:$lila;

@@ -1,0 +1,165 @@
+.detalle-vino {
+    &__hero {
+        background: $white;
+        padding: 40px 0;
+    }
+
+    &__hero-data {
+
+        li {
+            border-bottom: 1px dotted $midGray;
+            padding: 15px 0;
+        }
+
+        &__badge {
+            width: 80px;
+            height: 80px;
+            font-weight: 700;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            background: url('/images/vino/badge.png');
+
+            ._amount {
+                font-family: $altFont;
+                font-size: 48px;
+                margin: 0;
+                line-height: 1.1;
+                margin-top: -10px;
+            }
+
+            ._points {
+                font-size: 10px;
+                text-transform: uppercase;
+                line-height: 0;
+            }
+        }
+
+        &__name {
+            font-size: 28px;
+            font-family: $altFont;
+            margin: 0 0 10px;
+        }
+
+        &__from {
+            font-family: $altFont;
+            font-style: italic;
+            font-size: 24px;
+            font-weight: 300;
+            text-align: left;
+            margin: 0 0 10px;
+        }
+
+        &__type {
+            font-size: 12px;
+            color: $midGray;
+            text-transform: uppercase;
+            margin: 0;
+        }
+
+        &__pair {
+            display: flex;
+            justify-content: space-between;
+            font-size: 14px;
+
+            ._item, ._desc {
+                font-weight: 300;
+                margin: 0;
+            }
+
+            &--nota {
+                display: block;
+            }
+        }
+
+        &__import {
+            width: 50%;
+            font-family: $altFont;
+            h4 {
+                font-family: inherit;
+                font-size: 14px;
+            }
+        }
+    }
+
+    &__desc {
+        padding: 40px 0;
+
+        h2 {
+            text-align: left;
+            font-size: 24px;
+            margin: 0 0 20px;
+        }
+
+        p {
+            font-weight: 300;
+            font-size: 14px;
+        }
+    }
+
+    &__related {
+        padding: 20px 0 0;
+        background: transparentize($blueGray, .5);
+
+        @include mq(md){
+            padding: 40px 0;
+        }
+
+        &__item {
+            margin-bottom: 20px;
+
+            @include mq(md){
+                margin-bottom: 0;
+            }
+        }
+        &__item-img {
+            position: relative;
+            height: 0;
+            padding-bottom: 100%;
+            overflow: hidden;
+            background: $white;
+
+            img{
+                position: absolute;
+                top: 50%;
+                transform: translateY(-45%);
+                left: 0;
+                right: 0;
+                width: 90%;
+                height: auto;
+                margin: auto;
+            }
+        }
+
+        &__item-content {
+            background: $white;
+            padding: 10px;
+            text-align: center;
+
+            @include mq(md){
+                padding: 20px;
+            }
+        }
+
+        &__item-cat {
+            font-size: 14px;
+            color: $midGray;
+            margin: 0 0 5px;
+            font-weight: 300;
+            font-family: $altFont;
+        }
+
+        &__item-title {
+            font-family: $altFont;
+            margin: 0;
+            font-size: 21px;
+        }
+
+        &__title {
+            font-size: 24px;
+            text-align: left;
+            margin-bottom: 20px;
+        }
+    }
+}

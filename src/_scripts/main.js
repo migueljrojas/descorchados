@@ -9,6 +9,7 @@ var Header = require('../_modules/header/header');
 var Slider = require('../_modules/slider/slider');
 var Scroll = require('../_modules/scroll-bar/scroll-bar');
 var Home = require('./home');
+var Search = require('./busqueda');
 var Parallax = require('./parallax');
 
 $(function() {
@@ -20,4 +21,5 @@ $(function() {
     new Scroll();
     new Parallax();
     new Home();
+    new Search();
 });

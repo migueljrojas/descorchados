@@ -5,4 +5,26 @@ block config
   - var baseUrl = '../'
 
 block content
-  p detalle-vino page
+    main.detalle-vino
+        div.breadcrumb.container
+            p inicio > Vino de la semana >
+                span.active Nombre del Vino
+        
+        section.detalle-vino__hero
+            .container
+                .row
+                    .col-xs-18.col-sm-16.col-sm-offset-4
+                    .col-xs-6.col-sm-4
+                        .detalle-evento__post-share-box
+                            p.detalle-evento__post-share-box-title Share
+                            ul.detalle-evento__post-share-networks
+                                li.fb
+                                    a(href="https://www.facebook.com/")
+                                        i.fa.fa-facebook
+                                li.tw
+                                    a(href="https://www.twitter.com/")
+                                        i.fa.fa-twitter
+                                li.fb
+                                    a(href="https://www.facebook.com/")
+                                        i.fa.fa-envelope-o
+            

@@ -17,13 +17,8 @@
     .profesionales__container {
         background-color: #fff;
         text-align: center;
-        width: 48%;
         padding: 50px 0;
-        margin-bottom: 15px;
-
-        &.position-left {
-            margin-right: 15px;
-        }
+        margin-bottom: 30px;
 
         .profesionales__icon {
             background-color: #c3aa71;
@@ -32,10 +27,12 @@
             line-height: 60px;
             font-size: 22px;
             border-radius: 50%;
+            color:$darkestGray;
         }
 
         .profesioanles__title {
             font-size: 30px;
+            color:$darkestGray;
         }
 
         .profesionales__text {

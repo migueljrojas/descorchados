@@ -5,7 +5,7 @@
             "desc": "Argentina, un par de cosas para tenerte en mente",
             "img": "/images/home/slider.jpg",
             "btn": {
-                "url" : "#/",
+                "url" : "/detalle-nota",
                 "text": "Descubir"
             }
         },
@@ -14,7 +14,7 @@
             "desc": "Lorem ipsum ellit namet epsil",
             "img": "/images/home/slider.jpg",
             "btn": {
-                "url" : "#/",
+                "url" : "/detalle-nota",
                 "text": "Descubir"
             }
         }
@@ -60,27 +60,42 @@
         "items": [
             {
                 "name": "Vino de la semana",
-                "img": "/images/home/apuntes.jpg",
+                "img": "/images/home/vino-del-mes.jpg",
                 "category": "Vino de la semana",
                 "title": "Kankana del elqui",
                 "author": "Patricia Tapia",
-                "date": "Mayo 25.2017"
+                "date": "Mayo 25.2017",
+                "url":"/detalle-vino",
+                "icon":{
+                    "type":"img",
+                    "desc":"wine-icon.png"
+                }
             },
             {
                 "name": "Bodega del mes",
-                "img": "/images/home/apuntes2.jpg",
+                "img": "/images/home/bodega-del-mes.jpg",
                 "category": "Bodega del mes",
                 "title": "Lorem ipsum dolor amet solen super",
                 "author": "Patricia Tapia",
-                "date": "Mayo 25.2017"
+                "date": "Mayo 25.2017",
+                "url":"/detalle-vino",
+                "icon":{
+                    "type":"img",
+                    "desc":"barrel-icon.png"
+                }
             },
             {
                 "name": "Más que vinos",
-                "img": "/images/home/apuntes3.jpg",
+                "img": "/images/home/mas-que-vinos.jpg",
                 "category": "Libros",
                 "title": "Isidoro Blanstein, Cuentos completos",
                 "author": "Patricia Tapia",
-                "date": "Mayo 25.2017"
+                "date": "Mayo 25.2017",
+                "url": "/mas-que-vinos",
+                "icon":{
+                    "type":"text",
+                    "desc":"library_books"
+                }
             }
         ]
     },

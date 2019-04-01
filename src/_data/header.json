@@ -1,30 +1,30 @@
 [
     {
-        "name":"Inicio",
-        "url":"/"
+        "name":"Apuntes",
+        "url":"/apuntes"
     },
     {
-        "name":"Bodega",
-        "url":"/bodega"
+        "name":"Descorchados en Viaje",
+        "url":"/descorchados-en-viaje"
     },
     {
-        "name":"Wine Hotel",
-        "url":"/winehotel"
+        "name":"Vino de la Semana",
+        "url":"/vino-semana"
     },
     {
-        "name":"Franc 162",
-        "url":"/restaurant"
+        "name":"Más que vinos",
+        "url":"/mas-que-vinos"
     },
     {
-        "name":"Vinos",
-        "url":"#vinos"
+        "name":"Acerca de Descorchados",
+        "url":"/acerca-de"
     },
     {
-        "name":"Valle de Pedernal",
-        "url":"#valle"
+        "name":"Quienes somos",
+        "url":"/quienes-somos"
     },
     {
         "name":"Contacto",
-        "url":"#contacto"
+        "url":"/contacto"
     }
 ]

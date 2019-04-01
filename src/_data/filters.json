@@ -1,0 +1,200 @@
+{
+    "categories": [
+        {
+            "name":"Cosecha",
+            "id":"cosecha",
+            "list":[
+                {
+                    "name":"all",
+                    "val":"Todas las Cosechas"
+                },
+                {
+                    "name":"2015",
+                    "val":"2015"
+                },
+                {
+                    "name":"2014",
+                    "val":"2014"
+                },
+                {
+                    "name":"2013",
+                    "val":"2013"
+                },
+                {
+                    "name":"2012",
+                    "val":"2012"
+                },
+                {
+                    "name":"2011",
+                    "val":"2011"
+                },
+                {
+                    "name":"2010",
+                    "val":"2010"
+                },
+                {
+                    "name":"2019",
+                    "val":"2019"
+                },
+                {
+                    "name":"2018",
+                    "val":"2018"
+                }
+            ]
+        },
+        {
+            "name":"País",
+            "id":"pais",
+            "list":[
+                {
+                    "name":"allCountries",
+                    "val":"Todas los paises"
+                },
+                {
+                    "name":"pais01",
+                    "val":"Pais 1"
+                },
+                {
+                    "name":"pais02",
+                    "val":"Pais 2"
+                },
+                {
+                    "name":"pais03",
+                    "val":"Pais 3"
+                }
+            ]
+        },
+        {
+            "name":"Región",
+            "id":"region",
+            "list":[
+                {
+                    "name":"allRegions",
+                    "val":"Todas las Regiones"
+                },
+                {
+                    "name":"region01",
+                    "val":"Region 1"
+                },
+                {
+                    "name":"region02",
+                    "val":"Region 2"
+                },
+                {
+                    "name":"region03",
+                    "val":"Region 3"
+                }
+            ]
+        },
+        {
+            "name":"Tipo de Vino",
+            "id":"tipo-vino",
+            "list":[
+                {
+                    "name":"allTypes",
+                    "val":"Todas los Tipos"
+                },
+                {
+                    "name":"cabernet",
+                    "val":"Cabernet Suavgnon"
+                },
+                {
+                    "name":"malbec",
+                    "val":"Malbec"
+                },
+                {
+                    "name":"syrah",
+                    "val":"Syrah"
+                }
+            ]
+        },
+        {
+            "name":"Color",
+            "id":"color",
+            "list":[
+                {
+                    "name":"allColors",
+                    "val":"Todos los Colores"
+                },
+                {
+                    "name":"blanco",
+                    "val":"Blanco"
+                },
+                {
+                    "name":"tinto",
+                    "val":"Tinto"
+                },
+                {
+                    "name":"rosado",
+                    "val":"Rosado"
+                }
+            ]
+        },
+        {
+            "name":"Variedad",
+            "id":"variedad",
+            "list":[
+                {
+                    "name":"allVars",
+                    "val":"Todas las Variedades"
+                },
+                {
+                    "name":"var01",
+                    "val":"Variedad 1"
+                },
+                {
+                    "name":"var02",
+                    "val":"Variedad 2"
+                },
+                {
+                    "name":"var03",
+                    "val":"Variedad 3"
+                }
+            ]
+        },
+        {
+            "name":"Puntaje",
+            "id":"puntaje",
+            "list":[
+                {
+                    "name":"allScores",
+                    "val":"Todos los Puntajes"
+                },
+                {
+                    "name":"0-30",
+                    "val":"0 - 30"
+                },
+                {
+                    "name":"31-60",
+                    "val":"31 - 60"
+                },
+                {
+                    "name":"61-100",
+                    "val":"61 - 100"
+                }
+            ]
+        },
+        {
+            "name":"Precio",
+            "id":"precio",
+            "list":[
+                {
+                    "name":"allprices",
+                    "val":"Todos los precios"
+                },
+                {
+                    "name":"$",
+                    "val":"$"
+                },
+                {
+                    "name":"$$",
+                    "val":"$$"
+                },
+                {
+                    "name":"$$$",
+                    "val":"$$$"
+                }
+            ]
+        }
+    ]
+}

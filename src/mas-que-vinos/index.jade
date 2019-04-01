@@ -1,0 +1,46 @@
+extends ../_layouts/base
+
+block config
+  //- Correct base url pathing for this page
+  - var baseUrl = '../'
+
+block content
+    main.masvinos
+        div.breadcrumb.container
+            p inicio > Seccion >
+                span.active Titulo del Articulo
+        section.masvinos__content
+            .container
+                .row
+                    .col-xs-24.col-sm-8.col-md-10
+                        img.img-responsive(src="/images/apuntes/masquevinos.jpg")
+                    .col-xs-24.col-sm-16.col-md-14
+                        h1.masvinos__title Lee Fields & The Expressions: Wish you where here
+                        p Michel Friou llegó a Chile en 1995 para trabajar en Alto Maipo, en la bodega Aquitania. Un año más tarde se hizo cargo de Lapostolle, durante los años en que esta bodega fue fundamental para el desarrollo del vino en Chile, en un tiempo en que lo que se buscaba, (y aún se busca) era definición de un estilo. En el 2007, la sociedad entre Mouton Rothshild y Concha y Toro lo llamó para hacerse cargo de Almaviva. Así Friou se convirtió en el tercer enólogo de esta bodega del Maipo, en la zona de Puente Alto, una de las más tradicionales del vino chileno, hogar de nombres ilustres como Don Melchor o Viñedo Chadwick, sólo por nombrar algunos. Almaviva comparte con todos ellos los históricos viñedos de la familia Tocornal, que hoy mantiene viñedos de cabernet sauvignon con más de 40 años de antigüedad. 
+                        p Ese es el material con el que cuenta Friou, el que es sin duda, uno de los más codiciados del vino chileno. En total, son sesenta hectáreas de El Tocornal con las cuales Almaviva hace dos vinos. Uno de ellos es Epu, una suerte de "deuxime vin" de la casa. Se trata de una selección de vinos que, generalmente, se realiza en agosto, cuando hay vinos en barricas y tanques de acero. A esas alturas, el vino está casi listo en su fase de fermentación (sobre todo con la maloláctica, que es un paso crucial para que la suavidad del vino esté completa) y sólo queda decidir qué vinos irán a la mezcla final. "Del total de litros que vinificamos, entre el 50% y 55% va para Almaviva, y de un 10% a un 15% va para Epu. El saldo lo vendemos a granel" –explica Friou. La cosecha 2014 fue de rendimientos más bien bajos. Diciembre y enero fueron calurosos en Tocornal, lo que adelantó en algo la cosecha. "No hubo excesos" –dice Friou. Epu 2014 es una excelente versión de este tinto, una mezcla de 69% de cabernet sauvignon, 17% de carménère, 10% de merlot, y el resto de cabernet franc.
+                        p La fruta se siente muy viva, madura, untuosa, con sus taninos refinados y pulidos. No hay excesos en este vino, o tal como dice Friou, no hubo excesos en la cosecha. Almaviva este año tiene un 68% de cabernet sauvignon, 22% de carménère, 8% de cabernet franc y 8% de petit verdot, se cría en barricas por 18 meses, el 75% son nuevas. Este año, más concentrado, de mayor madurez, ha marcado a este Almaviva 2014. Pero esto no significa que sea un Almaviva más corpulento, sino más bien un vino de mayor concentración, pero a la vez muy refinado, con taninos pulidos, integrados con la fruta, como si fuesen partes fusionadas antes que componentes distintos. Y eso es sorprendente, 
+        
+        section.nota__related
+            .container
+                .row
+                    .col-xs-24.col-sm-8
+                        .nota__related__item
+                            .nota__related__item-img
+                                img(src="/images/nota/related1.jpg")
+                            .nota__related__item-content
+                                p.nota__related__item-cat Noticias
+                                h3.nota__related__item-title Agna aliqua ut enim ad minim veniam, quis nostrud.
+                    .col-xs-24.col-sm-8
+                        .nota__related__item
+                            .nota__related__item-img
+                                img(src="/images/nota/related2.jpg")
+                            .nota__related__item-content
+                                p.nota__related__item-cat Noticias
+                                h3.nota__related__item-title Laboris nisi ut aliquip ex ea commodo consequat. 
+                    .col-xs-24.col-sm-8
+                        .nota__related__item
+                            .nota__related__item-img
+                                img(src="/images/nota/related3.jpg")
+                            .nota__related__item-content
+                                p.nota__related__item-cat Noticias
+                                h3.nota__related__item-title Irure dolor in reprehenderit in voluptate velit esse cillum.

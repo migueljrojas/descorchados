@@ -1,0 +1,125 @@
+.eventos {
+    padding-bottom: 20px;
+
+    &__pagination {
+        text-align: center;
+    }
+
+    &__month {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        &__head {
+            font-size: 24px;
+            font-family: $altFont;
+            margin: 0;
+
+            @include mq(sm){
+                font-size: 36px;
+            }
+        }
+
+        ._arrow{
+            border-radius: 50%;
+            background: $lila;
+            color: $white;
+            width: 40px;
+            height: 40px;
+            text-align: center;
+            line-height: 40px;
+
+            i{
+                line-height: 40px;
+            }
+        }
+    }
+
+    &__list {
+
+        &__wrapper {
+            padding: 40px 0 20px;
+        }
+
+        &__item {
+            padding: 15px;
+            background: $white;
+            margin-bottom: 20px;
+
+            @include mq(sm) {
+                display: flex;
+                justify-content: space-between;
+            }
+
+            ._img {
+                position: relative;
+                height: 0;
+                padding-bottom: 100%;
+                max-width:400px;
+                margin: 0 auto 10px;
+                overflow: hidden;
+
+                @include mq(sm){
+                    width: 250px;
+                    padding-bottom:0;
+                    flex-basis: 250px;
+                    height: 250px;
+                    flex:1;
+                    margin: 0 30px 0 0;
+                    max-width: 250px;
+                }
+
+                img{
+                    position: absolute;
+                    top:0;
+                    left:0;
+                    width: 100%;
+                    height: auto;
+
+                    @include mq(sm){
+                        position: relative;
+                        display: block;
+                    }
+                }
+            }
+
+            ._content {
+                flex: 0;
+                flex-basis: calc(100% - 280px);
+            }
+        }
+
+        &__item-date {
+            font-size: 12px;
+            font-weight: 500;
+            text-transform: uppercase;
+
+            span{
+                margin-left: 5px;
+            }
+
+            i {
+                color: $lila;
+            }
+        }
+
+        &__item-name {
+            font-size: 24px;
+            text-align: left;
+
+            @include mq(sm) {
+                font-size: 36px;
+            }
+        }
+
+        &__item-desc {
+            font-weight: 300;
+            font-size: 14px;
+        }
+
+        ._view-more {
+            text-transform: uppercase;
+            font-size: 14px;
+        }
+    }
+}

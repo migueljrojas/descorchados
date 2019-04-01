@@ -5,4 +5,65 @@ block config
   - var baseUrl = '../'
 
 block content
-  p resultados-busqueda page
+    main.resultados
+        .container
+            .row
+                .col-xs-24
+                    h1.resultados__title
+                        | Búsqueda:
+                        span Almaviva
+                    
+                    p.resultados__total
+                        strong 25  
+                        | resultados
+                        
+                
+                    .resultados__table__wrapper
+                        .resultados__table
+                            .resultados__table__header
+                                .row
+                                    .col-xs-6.resultados__table__headercol
+                                        a
+                                            span Nombre del vino
+                                            i.material-icons keyboard_arrow_down
+                                    .col-xs-4.resultados__table__headercol
+                                        a
+                                            span Marca
+                                            i.material-icons keyboard_arrow_down
+                                    .col-xs-6.resultados__table__headercol
+                                        a
+                                            span Zona
+                                            i.material-icons keyboard_arrow_down
+                                    .col-xs-4.resultados__table__headercol
+                                        a
+                                            span Puntaje
+                                            i.material-icons keyboard_arrow_down
+                                    .col-xs-4.resultados__table__headercol
+                                        a
+                                            span Rango de Precios
+                                            i.material-icons keyboard_arrow_down
+                            
+                            .resultados__table__body
+                                - for (var i = 0; i < 15; ++i) {
+                                    .row
+                                        .col-xs-6.resultados__table__col
+                                            span Almaviva
+                                        .col-xs-4.resultados__table__col
+                                            span Marca
+                                        .col-xs-6.resultados__table__col
+                                            span Valle de Uco, Mendoza
+                                        .col-xs-4.resultados__table__col
+                                            span 95
+                                        .col-xs-4.resultados__table__col
+                                            span $88,95 - $150
+                                - }
+                                
+                section.resultados__pagination
+                    .pagination
+                        a.page._prev
+                            i.material-icons chevron_left
+                        a.page.-active 1
+                        a.page 2
+                        a.page 3
+                        a.page._next
+                            i.material-icons chevron_right

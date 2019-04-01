@@ -1,0 +1,57 @@
+extends ../_layouts/base
+
+block config
+  //- Correct base url pathing for this page
+  - var baseUrl = '../'
+
+block content
+    main.busqueda
+        form
+            .container.busqueda__container
+                .row
+                    .col-xs-24
+                        h1.busqueda__title Búsqueda Avanzada
+                        .busqueda__form-group
+                            label.busqueda__form-group__label Busca tu vino:
+                            input.busqueda__form-group__input(type="text")
+                            button.busqueda__form-group__button
+                                i.material-icons search
+                                | Buscar
+            section.busqueda__filters
+                h2.busqueda__subtitle Ajusta tu búsqueda con los siguientes filtros
+                .busqueda__filters__selected
+                    .container
+                        .row
+                            .col-xs-24
+                                ul.busqueda__filters__selected-list
+                                    li
+                                        a(href="#")
+                                            span Achaval Ferrer
+                                            i.material-icons close
+                                            
+                                    li
+                                        a(href="#")
+                                            span 2012
+                                            i.material-icons close
+                                            
+                                    li
+                                        a(href="#") Borrar Filtros
+                
+                .container.busqueda__filters__container
+                    .row
+                        .col-xs-24.col-sm-8.col-md-6
+                            ul.busqueda__filters__categories
+                                each item in site.data.filters.categories
+                                    li.busqueda__filters__category(data-target=item.id)
+                                        span= item.name
+                                        i.material-icons arrow_forward
+                        .col-xs-24.col-sm-16.col-md-18
+                            each collection in site.data.filters.categories
+                                .busqueda__filters__collection(data-tab=collection.id)
+                                    ul.busqueda__filters__collection-list
+                                        each filter in collection.list
+                                            li
+                                                input.busqueda__filters__checkbox(type="checkbox", name=filter.name, value=filter.val, id=filter.name)
+                                                label.busqueda__filters__label(for=filter.name)= filter.val
+                                    
+                            

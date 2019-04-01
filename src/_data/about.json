@@ -4,65 +4,149 @@
         "desc" : "Este es el equipo de Descorchados Sudamérica",
         "items" : [
             {
-                "img": "/images/about/team.jpg",
+                "img": "/images/quienes-somos/patricio-tapia.jpg",
                 "name": "Patricio Tapia",
                 "position" : "Director General",
-                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit egestas",
+                "description" : [
+                    "Estudié periodismo en la Universidad de Chile, en Santiago. Y tuve la suerte de darme cuenta muy pronto de que si había algo que no quería era ser un periodista que cubriera temas generales, así es que primero comencé escribiendo sobre música, aunque al corto tiempo se abrio un espacio para vinos en El Mercurio, donde yo trabajaba, y me pidieron que me hiciera cargo. Sin saber nada del tema, dije por qué no. Y aquí estoy, más de viente años después, con uno de los trabajos más entretenidos que a alguien se le pudiera ocurrir."
+                ],
                 "fburl" : "https://www.facebook.com/",
                 "twurl" : "https://www.twitter.com/",
                 "igurl" : "https://www.instagram.com/"
             },
             {
-                "img": "/images/about/team.jpg",
+                "img": "/images/quienes-somos/ma-eugenia.jpg",
                 "name" : "María Eugenia Berducci",
                 "position" : "Gerente Comercial de Argentina",
-                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit egestas",
+                "description" : [
+                    "Soy Ingeniera Agrónoma, enóloga, paisajista, amante del deporte al aire libre.",
+                    "Corrí (literalmente) kilómetros entre viñedos y diseñe muchos jardines en bodegas y así fue como conocí a muchos hacedores de vino, escuche sus historias, vi concretar sus sueños y, por supuesto, caté sus vinos. Se lo que es sentir pasión por lo que uno ama y así, entre desafíos y apasionados, fui construyendo mi trayectoria, acercándome cada vez más al mundo del vino. Desde 2010 trabajo en Descorchados y ya no corro, remo parada, practico stand up paddle y en Argentina aprendes a remar en dulce de leche que, por lo demás, me encanta."
+                ],
                 "fburl" : "https://www.facebook.com/",
                 "twurl" : "https://www.twitter.com/",
                 "igurl" : "https://www.instagram.com/"
 
             },
             {
-                "img": "/images/about/team.jpg",
+                "img": "/images/quienes-somos/gabriel-bosso.jpg",
                 "name" : "Gabriel Bosso",
                 "position" : "Productor General de Argentina y Uruguay",
-                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit egestas",
+                "description" : [
+                    "Me crié viendo a mis  tíos y abuelos, entorno a los vinos caseros. Pero hasta el año 1997, mientras terminaba mi carrera de Turismo y simultáneamente empezaba a estudiar Agronomía en Buenos Aires, que fue mi primer acercamiento al vino: Un curso de 18 meses para ser sommelier, marchando al “ritmo militar”, aprendiendo cómo servir vinos.",
+                    "En el año 2005, una agencia del Gobierno de Mendoza me contrató por mi experiencia en el desarrollo de destinos turísticos. Mi tarea era afianzar y ampliar los productos de agroturismo y enoturismo de la región. Y fue ahí, gracias a la oportunidad de encontrarme cara a cara con los productores de la zona, cuando comenzó realmente mi pasión por el vino. En 2008 ingresé al Grupo Simposium, una editorial que por esos años publicaba revistas como En Primeur y El Conocedor. Como el mundo del vino es pequeño, y más aún el de las publicaciones de vinos, por esos mismos años entré en contacto con Descorchados, donde soy productor de Argentina y Uruguay desde 2011."
+                ],
                 "fburl" : "https://www.facebook.com/",
                 "twurl" : "https://www.twitter.com/",
                 "igurl" : "https://www.instagram.com/"
 
             },
             {
-                "img": "/images/about/team.jpg",
+                "img": "/images/quienes-somos/cristian-burgos.jpg",
                 "name" : "Christian Burgos",
                 "position" : "Director de Brasil",
-                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit egestas",
+                "description" : [
+                    "Me considero un Editor emprendedor y apasionado en lo que hago, pero nunca pensé que el vino sería el gran protagonista en mi vida. Cuando conocí a mi mujer nos enamoramos y paralelamente descubrí el placer del vino.Ella es una fanática, pero mi pasión fue mas allá y el vino ganó entonces un papel central en mi vida profesional. En ADEGA, mi revista de vinos que se publica hace 10 años en Brasil, trabajamos con un gran equipo para difundir la cultura del vino. Hace seis años junto a Patricio Tapia nos dimos cuenta que compartíamos los mismos valores editoriales y decidimos emprender juntos el desarrollo de Descorchados en Brasil y ciertamente nos va mucho mejor de lo que habíamos planeado. Y aún estamos comenzando."
+                ],
                 "fburl" : "https://www.facebook.com/",
                 "twurl" : "https://www.twitter.com/",
                 "igurl" : "https://www.instagram.com/"
 
             },
             {
-                "img": "/images/about/team.jpg",
+                "img": "/images/quienes-somos/clau-caviedes.jpg",
                 "name" : "Claudia Caviedes",
                 "position" : "Diseñadora",
-                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit egestas",
+                "description" : [
+                    "Lo mío es el diseño gráfico, con pasión por las publicaciones en papel. Llevo en esto más de 20 años sumergida en mis temas preferidos: la cocina, el vino, la cultura, la memoria de mi país y su desarrollo social. Soy obsesiva, pero solo en el trabajo. Soy crítica, pero solo en la medida de las posibilidades reales. Soy comedora, pero no bebedora… por razones de salud. ¿Una diseñadora que no bebe diseña Descorchados? ¡Si, tal como suena! Descorchados 2016 ya es la quinta edición en la que participo y no dejo de entusiasmarme y aprender sobre el mundo del vino. ¿Resultado? Felicidad total."
+                ],
+                "fburl" : "https://www.facebook.com/",
+                "twurl" : "https://www.twitter.com/",
+                "igurl" : "https://www.instagram.com/"
+            },
+            {
+                "img": "/images/quienes-somos/lina-gomes.jpg",
+                "name" : "Lina Gomes",
+                "position" : "Gerente Comercial Colombia",
+                "description" : [
+                    "Esta historia se inicia cuando la empresa de mi familia comienza a importar vinos de misa para el mercado colombiano.  A medida que nos fuimos contactando con los productores, nos dimos cuenta de que alguien en la familia necesitaba saber de vinos.  ¡Y a mí me encantó la idea! Así es que después de terminar mi carrera como sicóloga, empecé a estudiar sommellería, una carrera que me mostró el camino por el cual quería ir y por el cual no. Definitivamente, el servicio no es lo mío, pero el amor por el vino era cada vez más fuerte, así que continué mis estudios en el Wine and Spirits Education Trust. Allí entendí que adoraba los vinos de Jerez y me certifique en el WineSchool de Bogotá. En medio de toda esa avalancha de información, tuve la oportunidad de integrarme al equipo de Descorchados con la tarea de ampliar su influencia en Colombia, que aún es un mercado pequeño, pero con gran potencial en el futuro. En Descorchados he tenido la oportunidad de aprender lo que no aprendí en ninguna escuela, compartir la interculturalidad, el compromiso con lo que hacemos, la diversidad, la convicción, pero sobre todo, la pasión por el vino. ¡Salud!."
+                ],
+                "fburl" : "https://www.facebook.com/",
+                "twurl" : "https://www.twitter.com/",
+                "igurl" : "https://www.instagram.com/"
+            },
+            {
+                "img": "/images/quienes-somos/paz.jpg",
+                "name": "Maria Paz Jimenez",
+                "position" : "Gerente comercial y productora ejecutiva de Chile.",
+                "description" : [
+                    "Soy periodista. Estudié en la Univeridad Gabriela Mistral de Santiago. Uno de mis primeros trabajos fue en la Revista Gourmand, que ya no existe y que debiera existir. Entrevisté, conocí, compartí con chef, enólogos, sommeliers. Organicé eventos como las Expo Gourmand y concursos de vino como el Catador. Luego, trabajé cinco años como relaciones públicas para la familia Mitjans, en  Viña Valdivieso y Licores Mitjans. Gran escuela. Después, trabajé en las comunicaciones de las  tiendas de Mundo de Vino, y  en el sitio Planetavino. Fue allí donde empecé a trabaja para Descorchados con Patricio Tapia. Desde 2008 me desempeño como encargada comercial y Productora Ejecutiva de la Guía Descorchados en Chile. Además, organizo la Feria de Vinos de Lujo en Grand Hyatt Santiago. Como otra de mis actividades, realizo durante el año diversas asesorías comunicacionales a viñas y restaurantes."
+                ],
+                "fburl" : "https://www.facebook.com/",
+                "twurl" : "https://www.twitter.com/",
+                "igurl" : "https://www.instagram.com/"
+            },
+            {
+                "img": "/images/quienes-somos/juan-nieva.jpg",
+                "name" : "Juan Pablo Nieva",
+                "position" : "Sommelier",
+                "description" : [
+                    "Juan entró al mundo del vino se podría decir por casualidad cuando se encontraba haciendo una pasantía de camarero en el restaurante Martín Berasategui, España. Allí  el Sommelier lo terminó contratando como su ayudante y luego de escuchar y sentir el entusiasmo de los protagonistas decidió dar el giro en su vida.",
+                    "Concluyó sus estudios de sommelier en la Escuela Argentina de Sommeliers en el año 2007. Logro dos veces el reconocimiento “Award of Excellence” de Wine Spectator por cartas de vinos en Cavas Wine Lodge y en Casa de Uco, en Mendoza.",
+                    "Cuenta con un Certified Sommelier (Court of Master Sommeliers) y trabajó para la cadena Relais & Chateaux en España, Brasil, Sudáfrica y Argentina. En Mendoza se desempeñó como Head-Sommelier en Cavas Wine Lodge, Siete Cocinas junto al chef Pablo del Río y en Casa de Uco Vineyards & Wine Resort."
+                ],
                 "fburl" : "https://www.facebook.com/",
                 "twurl" : "https://www.twitter.com/",
                 "igurl" : "https://www.instagram.com/"
 
             },
             {
-                "img": "/images/about/team.jpg",
-                "name" : "Lina Gomes",
-                "position" : "Gerente Comercial Colombia",
-                "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut hendrerit egestas",
+                "img": "/images/quienes-somos/victor.jpg",
+                "name" : "Victor Lara",
+                "position" : "Sommelier Chile",
+                "description" : [
+                    "Como bartender pensé que nada podría impresionarme tanto. Esto, hasta que me encontré un día con un señor con copa en mano, que me explicó brevemente y a través de su práctico lenguaje y visión, todo el mundo que se encerraba en ese líquido rojo que le provocaba mucha gracia. Este, era un reconocido sommelier. Y ese fue mi primer acercamiento a lo que sería el mundo del servicio, a lo que viene un sommelier. Ya pasando por la escuela y aprendiendo el oficio de la sommelieria, llegué a Descorchados, donde actualmente me encargo de preparar cada viaje y copa que realiza Patricio Tapia con los enólogos. Soy parte de un gran equipo, donde se trabaja con mucha humildad, entrega y sobre todo, paciencia."
+                ],
+                "fburl" : "https://www.facebook.com/",
+                "twurl" : "https://www.twitter.com/",
+                "igurl" : "https://www.instagram.com/"
+            },
+            {
+                "img": "/images/quienes-somos/eduardo-milan.jpg",
+                "name" : "Eduardo Milan",
+                "position" : "Productor Brasil",
+                "description" : [
+                    "Todo empezó con un amigo en común que tenemos con Christian Burgos, propietario de la revista ADEGA, a través de una simple invitación a una de las degustaciones de la revista en el año 2010. Hasta ese entonces, el vino en mi vida era solo un hobby de un serio abogado que comenzó estudiar y profundizar en el tema durante la facultad de Derecho en 1998. Pero en el transcurso de dos años, el hobby se transformó en una pasión y después en una obsesión. Eso explica el porqué se ha transformado en mi principal trabajo actualmente, aunque no el único. Y no es el único, pues además de ser editor de vinos de ADEGA y del trabajo en la guía Descorchados, soy criador junto a mi esposa de perros de la raza Welsh Corgi Pembroke. Este criadero también comenzó como una pasión por los animales, se transformó en obsesión y se transformó también en trabajo. Ejerzo la abogacía en las pocas horas libres que me quedan. Así es mi vida actualmente, con pelos por todas partes, regada por mucho vino."
+                ],
                 "fburl" : "https://www.facebook.com/",
                 "twurl" : "https://www.twitter.com/",
                 "igurl" : "https://www.instagram.com/"
 
-            }
+            },
+            {
+                "img": "/images/quienes-somos/alvaro-tello.jpg",
+                "name" : "Alvaro Tello",
+                "position" : "Editor",
+                "description" : [
+                    "Entre las cantinas de barrio donde vivían mis abuelos y mis vendimiadas vacaciones en el campo, siempre vi al vino como parte de la anécdota y el vivir cotidiano. Pero dada la edad, nunca fue de mi gusto, sino más bien, un simple placer visual y estimulante de mis risotadas de infante. Tras estudiar comunicación audiovisual (cine y televisión) tuve la suerte de conocer a varios directores de cine, con los cuales tuvimos grandes y extensas charlas en torno al vino y a la comida. En una de esas salidas nocturnas, surgió la idea de escribir de vinos, y lo que en sus comienzos fue un hobby y un simple ejercicio, terminó transformándose en un oficio. Tras crear mi blog de vinos (www.vinocracia.cl) y escribir en varias publicaciones, conocí a Patricio Tapia, quien me invitaría a esta nueva aventura de degustar y conocer de vinos, llegando a editar Descorchados.Una tarea que no es fácil, pero que predispone al nervio y al entusiasmo. Como el que siente un escritor cuando ve su página en blanco teniendo mil ideas en la cabeza. Siempre hay vértigo, pero muchas más son las ganas."
+                ],
+                "fburl" : "https://www.facebook.com/",
+                "twurl" : "https://www.twitter.com/",
+                "igurl" : "https://www.instagram.com/"
 
+            },
+            {
+                "img": "/images/quienes-somos/anita.jpg",
+                "name" : "Anita Zaror",
+                "position" : "Productora General de Chile",
+                "description" : [
+                    "Anita se tituló de periodista, máster en marketing y sommelier profesional; pero cree que ningún título haya brindado tanta satisfacción tal como lo hizo su pasión por experiencias multisensoriales. Fue por ella que recorrió más de cincuenta países en cinco continentes. Estudió y trabajó en Chile, Estados Unidos, España, India, Turquía y Tailandia. En su recorrido, buscaba platos típicos en tantas cocinas demasiado rústicas como tantas otras muy sofisticadas de Delhi, Tánger, Vilanculos, Beijing, Londres y Nueva York. Recorrió caminos del vino desde Napa hasta Chianti, desde Khao Yai hasta Constantia.",
+                    "Tras más de dos décadas asesorando a empresas gastro-turísticas, entidades gubernamentales y medios de comunicación en Chile y el extranjero, en 2016 recibió humildemente una invitación para unirse al gran equipo de Descorchados.",
+                    "Siente que su pasión por el vino se sació con cada baya que vió crecer, cada piedra aluvial que tomó en sus manos. Afirma que es un privilegio cada entrevista que oyó. Asegura que amó cada aroma y sabor de los mostos del gran terroir chileno."
+                ],
+                "fburl" : "https://www.facebook.com/",
+                "twurl" : "https://www.twitter.com/",
+                "igurl" : "https://www.instagram.com/"
+            }
         ]
 
     }

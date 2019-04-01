@@ -1,22 +1,8 @@
 .detalle-evento {
-    .breadcrumb {
-        text-transform: uppercase;
-        font-size: 10px;
-        margin-top: 20px;
-        p {
-            color: $darkGray;
-            span {
-                &.active {
-                  color: #000;
-                  font-weight: 600;
-                  padding-left: 5px;
-                }
-            }
-        }
-    }
 
-    .detalle-evento__post {
+    &__post {
         padding: 50px 0;
+
         &-img {
             img {
                 width: 100%;
@@ -44,12 +30,22 @@
                 text-transform: uppercase;
                 font-size: 10px;
                 color: $midGray;
+
+                i{
+                    color: $lila;
+                    margin-right: 5px;
+                    margin-top: 5px;
+                }
             }
 
             &-title {
                 font-family: $altFont;
-                font-size: 30px;
+                font-size: 24px;
                 font-weight: 600;
+
+                @include mq(md){
+                    font-size: 30px;
+                }
             }
 
             &-text {
@@ -65,6 +61,11 @@
             width: 60px;
             text-align: center;
             padding: 10px 0;
+            margin-top: 20px;
+
+            @include mq(md){
+                margin-top: 0;
+            }
 
             &-title {
                 text-transform: uppercase;
@@ -88,17 +89,27 @@
           background-color: #fff;
           padding: 0;
           margin-right: 15px;
-          width: 32%;
+
+          &-img{
+              position: relative;
+              height: 0;
+              padding-bottom: 56.5%;
+          }
+
             img {
                 width: 100%;
                 height: auto;
-                max-height: 160px;
+                position: absolute;
+                top: 0;
+                left: 0;
             }
 
             &-date {
                 color: $lila;
                 font-size: 10px;
                 padding: 20px 0 0 20px;
+                font-family: $mainFont;
+
             }
 
             &-title {

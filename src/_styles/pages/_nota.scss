@@ -1,0 +1,164 @@
+.nota {
+    &__hero {
+        background: $lightGray;
+        text-align: center;
+        padding: 50px 0 0;
+
+        &__social {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0 40px;
+
+            li{
+                margin: 0 5px;
+            }
+        }
+
+        &__foto {
+            position: relative;
+            height: 0;
+            padding-bottom: 50%;
+            overflow: hidden;
+
+            @include mq(sm){
+                padding-bottom: 56.5%;
+            }
+
+            @include mq(md){
+                padding-bottom: 30%;
+            }
+
+            img{
+                position: absolute;
+                width: 100%;
+                height: auto;
+                left: 0;
+                top: 50%;
+                transform: translateY(-50%);
+            }
+        }
+    }
+
+    &__title {
+        font-family: $altFont;
+        font-size: 28px;
+        color: $darkestGray;
+        font-weight: 700;
+        margin-top: 0;
+        margin-bottom: 20px;
+
+        @include mq(md){
+            font-size: 42px;
+        }
+    }
+
+    &__subtitle{
+        font-family: $altFont;
+        font-weight: 300;
+        font-size: 21px;
+        margin-top: 0;
+        margin-bottom: 20px;
+
+        @include mq(md){
+            font-size: 24px;
+        }
+    }
+
+    &__autor,
+    &__fecha {
+        font-size: 10px;
+        font-weight: 500;
+        text-transform: uppercase;
+        margin-top: 0;
+        margin-bottom: 3px;
+    }
+
+    &__content {
+        padding: 50px 0;
+
+        p {
+            color: $darkGray;
+            font-weight: 300;
+            font-size: 14px;
+            margin-bottom:20px;
+
+            @include mq(md){
+                font-size: 16px;
+            }
+        }
+
+        img {
+            margin-bottom: 20px;
+        }
+
+        .caption {
+            font-size: $xs;
+            margin: 10px 0 40px;
+            display: block;
+            font-family: $altFont;
+            font-weight: 700;
+        }
+        h2{
+            text-align: left;
+            font-size: $lg;
+        }
+
+        .detalle-evento__post-share-box {
+            float: right;
+        }
+    }
+
+    &__related {
+        padding: 20px 0 0;
+        background: transparentize($blueGray, .5);
+
+        @include mq(md){
+            padding: 40px 0;
+        }
+
+        &__item {
+            margin-bottom: 20px;
+
+            @include mq(md){
+                margin-bottom: 0;
+            }
+        }
+        &__item-img {
+            position: relative;
+            height: 0;
+            padding-bottom: 50%;
+            overflow: hidden;
+
+            img{
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                width: 100%;
+                height: auto;
+            }
+        }
+
+        &__item-content {
+            background: $white;
+            padding: 10px;
+
+            @include mq(md){
+                padding: 20px;
+            }
+        }
+
+        &__item-cat {
+            font-size: 12px;
+            text-transform: uppercase;
+            color: $midGray;
+            margin: 0 0 5px;
+            font-weight: 500;
+        }
+
+        &__item-title {
+            font-family: $altFont;
+            margin: 0;
+            font-size: 21px;
+        }
+    }
+}

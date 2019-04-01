@@ -4,37 +4,37 @@
         "items1": [
             {
                 "name": "Apuntes",
-                "url": "#/"
+                "url": "/detalle-nota"
             },
             {
                 "name": "Acerca de descorchados",
-                "url": "#/"
+                "url": "/acerca-de"
             },
             {
                 "name": "Descorchados en viaje",
-                "url": "#/"
+                "url": "/descorchados-en-viaje"
             },
             {
                 "name": "Vino de la semana",
-                "url": "#/"
+                "url": "/detalle-vino"
             }
         ],
         "items2": [
             {
                 "name": "Más que vinos",
-                "url": "#/"
+                "url": "/mas-que-vinos"
             },
             {
                 "name": "Envianos tus vinos",
-                "url": "#/"
+                "url": "/detalle-vino"
             },
             {
                 "name": "Area profesionales",
-                "url": "#/"
+                "url": "/area-profesionales"
             },
             {
                 "name": "Contacto",
-                "url": "#/"
+                "url": "/contacto"
             }
         ],
         "redes": [

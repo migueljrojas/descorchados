@@ -1,0 +1,217 @@
+.busqueda {
+    background: $white;
+
+    &__container {
+        border-bottom: 1px solid $lightGray;
+        padding-bottom: 40px;
+    }
+
+    &__title {
+        font-size: 24px;
+        font-family: $altFont;
+        text-align: center;
+
+        @include mq(md) {
+            font-size: 32px;
+        }
+    }
+
+    &__subtitle {
+        font-size: 18px;
+        font-family: $altFont;
+        text-align: center;
+        margin: 15px 0;
+
+        @include mq(md) {
+            font-size: 21px;
+        }
+    }
+
+    &__form-group {
+        @include mq(sm){
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        &__input {
+            background: $lightestGray;
+            border:1px solid  $lightGray;
+            height: 40px;
+            line-height: 40px;
+            width: 40%;
+            max-width: 420px;
+            min-width: 200px;
+            flex-basis: 40%;
+            margin-left: 15px;
+        }
+
+        &__label {
+            font-family: $altFont;
+            line-height: 40px;
+            font-size: 16px;
+        }
+
+        &__button {
+            background: $lila;
+            width: 100%;
+            max-width: 300px;
+            margin: 15px auto 0;
+            border-radius: 20px;
+            height: 40px;
+            line-height: 20px;
+            color: $white;
+            border:none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            i {
+                line-height: 40px;
+            }
+
+            @include mq(sm){
+                width: 120px;
+                margin-left: 15px;
+                margin-top: 0;
+                margin-right: 0;
+            }
+        }
+    }
+
+    &__filters {
+        &__selected {
+            background: $lightGray;
+        }
+
+        &__selected-list {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            padding: 10px 0;
+
+            li {
+                margin-right: 20px;
+
+                &:last-child {
+                    a {
+                        text-decoration: underline;
+                        text-transform: none;
+                    }
+                }
+            }
+
+            a {
+                display: flex;
+                padding: 3px;
+                font-size: 12px;
+                align-items: center;
+                color: $darkestGray;
+                text-transform: uppercase;
+                font-family: $altFont;
+                font-weight: 700;
+
+                i {
+                    font-size: 12px;
+                    margin-left: 3px;
+                }
+            }
+        }
+
+        &__categories {
+            border-top: 1px solid $lightGray;
+
+            li {
+                height: 40px;
+                line-height: 40px;
+                border-bottom: 1px solid $lightGray;
+                font-family: $altFont;
+                font-size: 14px;
+                display: flex;
+                justify-content: space-between;
+                font-weight: 700;
+                text-transform: uppercase;
+                cursor: pointer;
+
+                i {
+                    @include trans;
+                    line-height:40px;
+                    font-size:14px;
+                    transform: rotate(0);
+                }
+
+                &.-active {
+                    i {
+                        transform: rotate(90deg);
+                    }
+                }
+            }
+        }
+
+        &__container {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+
+        &__checkbox:not(:checked),
+        &__checkbox:checked {
+          position: absolute;
+          left: -9999px;
+        }
+        &__label {
+            position: relative;
+            padding-left: 30px;
+            cursor: pointer;
+            font-family: $altFont;
+            font-weight: 300;
+            color: $darkestGray;
+
+            &:before {
+                position: absolute;
+                content: '';
+                width: 20px;
+                height: 20px;
+                border: 2px solid;
+                left: 0;
+            }
+
+            &:after {
+                @include trans;
+                position: absolute;
+                width: 11px;
+                height: 11px;
+                content: '';
+                left: 4px;
+                top: 5px;
+                background: $darkestGray;
+                opacity: 0;
+            }
+        }
+
+        &__checkbox:checked + .busqueda__filters__label{
+            font-weight: 700;
+
+            &:after {
+                opacity: 1;
+            }
+        }
+
+        &__collection {
+            display: none;
+
+            &.-active {
+                display: block;
+            }
+        }
+
+        &__collection-list {
+            li {
+                margin-bottom: 10px;
+
+                &:first-child {
+                    margin-bottom: 20px;
+                }
+            }
+        }
+    }
+}

@@ -26,6 +26,11 @@
     }
 }
 
+.nopadding-selective > .nopad-col {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
 .-vertical-space{
     padding-top: $base;
     padding-bottom: $base;

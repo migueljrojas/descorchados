@@ -1,0 +1,22 @@
+[
+    {
+        "img":"/images/eventos/evento1.jpg",
+        "name":"Titulo del Evento",
+        "desc":"Estudié periodismo en la Universidad de Chile, en Santiago. Y tuve la suerte de darme cuenta muy pronto de que si había algo que no quería era ser un periodista que cubriera temas generales, así es que primero comencé escribiendo sobre música, aunque al corto tiempo se abrio un espacio para vinos en El Mercurio, donde yo trabajaba, y me pidieron que me hiciera cargo. Sin saber nada del tema, dije por qué no. Y aquí estoy, más de viente años después, con uno de los trabajos más entretenidos que a alguien se le pudiera ocurrir."
+    },
+    {
+        "img":"/images/eventos/evento2.jpg",
+        "name":"Titulo del Evento",
+        "desc":"Estudié periodismo en la Universidad de Chile, en Santiago. Y tuve la suerte de darme cuenta muy pronto de que si había algo que no quería era ser un periodista que cubriera temas generales, así es que primero comencé escribiendo sobre música, aunque al corto tiempo se abrio un espacio para vinos."
+    },
+    {
+        "img":"/images/eventos/evento3.jpg",
+        "name":"Titulo del Evento",
+        "desc":"Estudié periodismo en la Universidad de Chile, en Santiago. Y tuve la suerte de darme cuenta muy pronto de que si había algo que no quería era ser un periodista que cubriera temas generales, así es que primero comencé escribiendo sobre música, aunque al corto tiempo se abrio un espacio para vinos en El Mercurio, donde yo trabajaba, y me pidieron que me hiciera cargo. Sin saber nada del tema, dije por qué no. Y aquí estoy, más de viente años después, con uno de los trabajos más entretenidos que a alguien se le pudiera ocurrir."
+    },
+    {
+        "img":"/images/eventos/evento4.jpg",
+        "name":"Titulo del Evento",
+        "desc":"Estudié periodismo en la Universidad de Chile, en Santiago. Y tuve la suerte de darme cuenta muy pronto de que si había algo que no quería era ser un periodista que cubriera temas generales, así es que primero comencé escribiendo sobre música, aunque al corto tiempo se abrio un espacio para vinos."
+    }
+]
