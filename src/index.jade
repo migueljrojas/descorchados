@@ -27,20 +27,21 @@ block content
                                     p.apuntes__item__data--desc= item.desc
                                     p.apuntes__item__data--button Leer
                         .apuntes__decoration
-                            img(src="#")
                         button.apuntes__more-button Cargar más
                         
                     .col-xs-24.col-sm-8.col-sm-offset-1
                         h2.apuntes__title.apuntes__title--alt Destacados
-                        .row.apuntes__container
-                            each item in site.data.home.destacados.items
-                                .categorias__item.col-xs-24
-                                    a(href=item.url)
-                                        .categorias__item-img
-                                            img(src=item.img)
-                                        .categorias__item-data
-                                            p.categorias__item-data-category= item.category
-                                            p.categorias__item-data-title= item.title
+                        .row
+                            .col-xs-24
+                                .apuntes__container
+                                    each item in site.data.home.destacados.items
+                                        .categorias__item
+                                            a(href=item.url)
+                                                .categorias__item-img
+                                                    img(src=item.img)
+                                                .categorias__item-data
+                                                    p.categorias__item-data-category= item.category
+                                                    p.categorias__item-data-title= item.title
         .home__bottom-pattern
             img(src="/images/home/footer-pattenr.png")
                         
