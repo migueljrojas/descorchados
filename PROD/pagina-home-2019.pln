@@ -1,0 +1,111 @@
+<main class="home 2019">
+<section class="home__hero">
+	<div class="_slider home__slider">
+		{{/bloqueUltimas}}
+		<div class="home__hero__slide">			
+			<div class="home__hero__image"><img src="{raiz}img/1440x480/{imagen}"></div>
+			<div class="home__hero__content">
+				<div class="home__hero__wrapper">
+					<h3 class="home__hero__subtitle">{sobretitulo}</h3>
+					<h2 class="home__hero__title">{nombre}</h2>
+					<a href="{link}" data-gratis="{gratuito}" class="home__hero__button">{l25}</a>
+				</div>
+			</div>
+		</div>
+		{{/bloqueUltimas}}
+	</div>
+</section>
+<section class="apuntes">
+	<div class="container">
+		<div class="row">
+			<div class="apuntes__item col-xs-24 col-sm-15">
+				<h2 class="apuntes__title">{l1}</h2>
+				{{/bloqueApuntes}}
+					<a href="{link}" data-gratis="{gratuito}" class="apuntes__item__wrapper">
+						<div class="apuntes__item__image">
+							<img src="{raiz}img/312x247/{cuadrado}">
+						</div>
+						<div class="apuntes__item__data">
+							<div class="apuntes__item-data-icon">
+								<i class="fa fa-file-text"></i>
+							</div>
+							<p class="apuntes__item__data-subtitle">{l1}</p>
+							<p class="apuntes__item__data-title"><small>{sobretitulo}</small><br />{nombre}</p>
+							<p class="apuntes__item__data-desc">{copete}</p>
+							<p class="apuntes__item__data-button">{l25}</p>
+						</div>
+					</a>
+				{{/bloqueApuntes}}
+				<div class="apuntes__decoration"></div>
+				<button class="apuntes__more-button">Cargar más</button>
+			</div>
+		
+			<div class="col-xs-24 col-sm-8 col-sm-offset-1">
+				<h2 class="apuntes__title apuntes__title--alt">Destacados</h2>
+				<div class="row">
+					<div class="col-xs-24">
+						<div class="apuntes__container">
+							{{/bloqueEventos}}
+							<div class="categorias__item">
+								<a href="{link}" data-gratis="{gratuito}">
+									<div class="categorias__item-img">
+										<img src="{raiz}img/425x284/{imgeventos}">
+									</div>
+									<div class="categorias__item-data">
+										<p class="categorias__item-data-category">{l2}</p>
+										<p class="categorias__item-data-title">{nombre}</p>
+									</div>
+								</a>
+							</div>
+							{{/bloqueEventos}}
+
+							{{/bloqueSesion}}
+							<div class="categorias__item">
+								<a href="{link}" data-gratis="{gratuito}">
+									<div class="categorias__item-img">
+										<img src="{raiz}img/425x284/{cuadrado}">
+									</div>
+									<div class="categorias__item-data">
+										<p class="categorias__item-data-category">{categoria_nombre}</p>
+										<p class="categorias__item-data-title"><small>{sobretitulo}</small><br />{nombre}</p>
+									</div>
+								</a>
+							</div>
+							{{/bloqueSesion}}
+
+							{{/bloqueMasQue}}
+							<div class="categorias__item">
+								<a href="{link}" data-gratis="{gratuito}">
+									<div class="categorias__item-img">
+										<img src="{raiz}img/425x284/{imagen}">
+									</div>
+									<div class="categorias__item-data">
+										<p class="categorias__item-data-category">{categoria_nombre}</p>
+										<p class="categorias__item-data-title">{nombre}</p>
+									</div>
+								</a>
+							</div>
+							{{/bloqueMasQue}}
+							
+							{{/bloqueVino}}
+							<div class="categorias__item">
+								<a href="{link}" data-gratis="{gratuito}">
+									<div class="categorias__item-img">
+										<img src="{raiz}img/425x284/{imgsemana}">
+									</div>
+									<div class="categorias__item-data">
+										<p class="categorias__item-data-category">{l15}</p>
+										<p class="categorias__item-data-title">{nombre}</p>
+									</div>
+								</a>
+							</div>
+							{{/bloqueVino}}
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<div class="home__bottom-pattern"><img src="{raizVista}images/home/footer-pattenr.png"></div>
+</main>

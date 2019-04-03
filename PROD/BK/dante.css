@@ -1,0 +1,472 @@
+.mt-5 {
+	margin-top: 5px;
+}
+
+.mb-5 {
+	margin-bottom: 5px;
+}
+
+.my-5 {
+	margin-top: 5rem;
+	margin-bottom: 5rem;
+}
+
+.my-4 {
+	margin-top: 4rem;
+	margin-bottom: 4rem;
+}
+
+.my-3 {
+	margin-top: 3rem;
+	margin-bottom: 3rem;
+}
+
+.my-2 {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+.my-1 {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
+
+.mb-5r {
+	margin-bottom: 5rem;
+}
+
+.mb-4r {
+	margin-bottom: 4rem;
+}
+
+.mb-3r {
+	margin-bottom: 3rem;
+}
+
+.mb-2r {
+	margin-bottom: 2rem;
+}
+
+.mb-1r {
+	margin-bottom: 1rem;
+}
+
+.detalle-evento .detalle-evento__posts-item-img {
+	overflow: hidden;
+}
+
+.detalle-evento__posts-item-date {
+	text-transform: uppercase;
+}
+
+.eventosMes {
+	display: none;
+}
+
+.eventosMes.activo {
+	display: unset;
+}
+
+#formularioEvento {
+	display: none;
+}
+
+.vinoModelo {
+	display: none;
+}
+
+.btn-morado {
+	color: #fff;
+	background-color: #8f8f8f;
+	border-color: #8f8f8f;
+}
+
+.contacto h2 {
+	font-size: 32px;
+}
+
+.contacto p {
+	font-size: 13px !important;
+}
+
+.contacto .fa {
+	color: #8f8f8f;
+}
+
+@media ( min-width : 992px) {
+	.header__menu a {
+		font-size: 12px;
+	}
+	.header__nav {
+		padding: 0;
+	}
+}
+
+.bootstrap-tagsinput {
+	width: 100%;
+}
+
+a.filtroElegido {
+	border: 2px solid #8f8f8f;
+	border-radius: 30px;
+	padding: 5px 10px;
+	margin: 5px;
+}
+
+#elegidosQuitar {
+	margin: 20px 0;
+}
+
+.busqueda__filters__collection-list li {
+	/* 	display: inline-flex; */
+	/* 	width: 18%; */
+	
+}
+
+@media ( max-width : 768px) {
+	.busqueda__filters__collection-list li {
+		/* 		display: inline-flex; */
+		/* 		width: 40%; */
+		
+	}
+	.nota__content .detalle-evento__post-share-box {
+		float: none;
+	}
+}
+
+.detalle-vino__hero-data__import {
+	width: unset;
+}
+
+[data-filtro] div {
+	cursor: pointer;
+}
+
+[name="ordenar"], [name="ordenar"] option {
+	text-transform: capitalize;
+}
+
+.puntosInput {
+	max-width: unset;
+	min-width: unset;
+	width: 100%;
+	text-align: center;
+}
+
+.vinoRelacionado img {
+	width: unset;
+}
+
+section.nota__content img {
+	max-width: 100% !important;
+}
+
+span.fr-img-caption {
+	display: block;
+}
+
+.detalle-vino__related__item-cat {
+	font-family: "Montserrat", sans-serif;
+	font-size: 15px;
+	line-height: 17px;
+	color: #666666;
+	font-weight: 500;
+	margin-bottom: 0;
+}
+
+.detalle-vino__related__item-title {
+	font-family: "Montserrat", sans-serif;
+	font-size: 15px;
+	line-height: 17px;
+	color: #000000;
+	font-weight: 500;
+}
+
+#resultados {
+	margin-top: 20px;
+}
+
+[data-filtro] h3 {
+	font-family: "Sentinel", serif;
+	color: #333333;
+}
+
+[data-filtro] h5 {
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 17px;
+	color: #666666;
+}
+
+[data-filtro] .busqueda__form-group__input {
+	font-weight: 500;
+	font-size: 15px;
+	line-height: 17px;
+	color: #666666;
+}
+
+.filaVino {
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin: 0;
+}
+
+.filaVino:nth-child(odd) {
+	background: #CCCCCC;
+}
+
+.filaVino:HOVER {
+	background: #EEEEEE;
+}
+
+.slick-dots li button:before {
+	font-size: 40px;
+}
+
+a[href$="originales/"] {
+	display: none;
+}
+
+.copyright {
+	color: #888888;
+	text-transform: uppercase;
+}
+
+.footer .redes {
+	text-align: center;
+	margin-top: 0;
+}
+
+.footer li.network:last-child {
+	padding-right: 0 !important;
+}
+
+.menuFooter {
+	padding: 15px 0;
+	border-top: 1px solid #7f7f7f;
+	margin: 20px 0 5px;
+}
+
+.logoDesFooter, .logoDanFooter {
+	margin: 0 auto;
+	float: none;
+}
+
+.footer .redes {
+	margin: 15px 0;
+}
+
+@media ( min-width : 767.999px) {
+	.logoDanFooter {
+		margin: 0;
+		float: right !important;
+	}
+	.logoDesFooter {
+		margin: 0;
+		float: left !important;
+	}
+	.footer .redes {
+		margin: 0 0;
+	}
+}
+
+.btn {
+	word-break: normal;
+	white-space: normal;
+}
+
+.banderaPais {
+	cursor: pointer;
+}
+
+.banderaPais {
+	position: relative;
+}
+
+.banderaPais .over {
+	display: none;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgba(187, 201, 201, 0.9);
+}
+
+.banderaPais .over p.profesionales__text {
+	font-size: 12px;
+	padding: 25% 7%;
+}
+
+.banderaPais.activo .over {
+	display: block;
+}
+
+#baseEtiqueta {
+	display: none;
+}
+
+.itemEtiqueta {
+	margin-bottom: 35px;
+	border-bottom: 1px solid #e1e1e1;
+	padding-bottom: 25px;
+}
+
+.corcho-container {
+	background-color: white;
+	text-align: center;
+	padding: 5px 5px 2rem;
+	border: 1px solid #d9d9d9;
+	margin-bottom: 2rem;
+}
+
+.corcho-container img {
+	margin: 0 auto;
+}
+
+.corcho-container p {
+	font-family: "Sentinel", serif;
+	font-weight: 700;
+	font-size: 26px;
+}
+
+.corcho-container p.valor {
+	font-weight: 500;
+	font-size: 20px;
+	font-family: Montserrat, sans-serif;
+}
+
+.corcho-container  .spinners {
+	width: 84%;
+	margin-left: 8%;
+}
+
+.corcho-container  .spinners .menos, .corcho-container  .spinners .mas {
+	width: 25%;
+	float: none;
+}
+
+.corcho-container  .spinners .numero {
+	width: 100%;
+	float: none;
+}
+
+.corcho-container  .spinners .numero input {
+	text-align: center;
+}
+
+.corcho-container-suelto {
+	padding-bottom: 0;
+}
+
+.separacionResumen {
+	margin: 2rem 0;
+	padding: 1rem 0;
+	border-top: 1px solid #d9d9d9;
+	border-bottom: 1px solid #d9d9d9;
+}
+
+.metodoPago {
+	background-color: white;
+	padding: 1rem 2rem;
+	margin-top: 1rem;
+}
+
+.metodoPago img {
+	margin: 0 0 0 auto;
+}
+
+.metodoPago p {
+	margin: 0;
+	line-height: 50px;
+}
+
+.home .slick-track .container .home__slider__data h2 {
+	font-size: 48px;
+}
+
+.home .slick-track .container .home__slider__data p {
+	font-size: 24px;
+}
+
+.home .slick-track .container .home__slider__data a {
+	margin-top: 4rem;
+}
+
+.home .apuntes .apuntes__item-data-icon i {
+	padding-top: 0;
+	margin: 17px 0;
+}
+
+@media ( max-width : 764px) {
+	.home .slick-track .container .home__slider__data h2 {
+		font-size: 20px;
+	}
+	.home .slick-track .container .home__slider__data p {
+		font-size: 14px;
+	}
+	select[name="ordenar"] {
+		display: none;
+	}
+}
+
+.sesiones {
+	background-color: #c0cdd6;
+	background-image: url(../images/sesiones/microfono-2.jpg);
+	background-position: right 50% top -110px;
+	background-repeat: no-repeat;
+}
+
+@media ( max-width : 992px) {
+	.sesiones {
+		background-position: right 50% top;
+	}
+}
+
+@media ( max-width : 764px) {
+	.sesiones {
+		background-image: none;
+	}
+}
+
+.sesiones .breadcrumb {
+	margin-top: 0;
+	padding-top: 20px;
+	background-color: transparent;
+}
+
+.sesiones .lista {
+	background-color: #f5f5f5;
+}
+
+.sesiones .fs90 {
+	font-size: 63px !important;
+}
+
+.home.sesiones .categorias {
+	margin: 0 0 50px;
+}
+
+.home.sesiones .categorias h2 {
+	margin: 0 0 20px;
+}
+
+.sesiones h4 {
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: normal;
+}
+
+.fs13 {
+	font-size: 13px !important;
+}
+
+.c8f {
+	color: #8f8f8f;
+}
+
+.rayita {
+	background-color: #bbc9c9;
+	width: 25px;
+	height: 2px;
+}

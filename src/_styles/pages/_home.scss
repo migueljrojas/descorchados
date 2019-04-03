@@ -4,8 +4,10 @@
 
     &__hero {
 
-        @include mq(md) {
-            display: flex;
+        &__slide {
+            @include mq(md) {
+                display: flex;
+            }
         }
 
         &__image {
@@ -175,7 +177,7 @@
 
                 }
 
-                &--subtitle {
+                &-subtitle {
                     text-transform: uppercase;
                     font-size: 14px;
                     color: $black;
@@ -183,7 +185,7 @@
                     margin: 0;
                 }
 
-                &--title {
+                &-title {
                     font-weight: 700;
                     display: -webkit-box;
                     -webkit-line-clamp: 2;
@@ -198,7 +200,7 @@
                     }
                 }
 
-                &--desc {
+                &-desc {
                     font-size: 18px;
                     font-weight: 300;
                     display: -webkit-box;
@@ -209,7 +211,7 @@
                     margin: 0;
                 }
 
-                &--button {
+                &-button {
                     margin: 0;
                     position: relative;
                     color: $black;
