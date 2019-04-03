@@ -19,69 +19,83 @@
             }
         }
     ],
-
     "apuntes": {
         "title": "Apuntes",
         "items": [
             {
                 "img": "/images/home/apuntes.jpg",
-                "subtitle":"descorchados chile 2019",
-                "title": "El mejor tinto",
+                "category": "Apuntes",
+                "title": "Lorem ipsum dolor sit amet,consectetur adispicing elit",
                 "desc": "Ut enim ad minim veniam,quis mostrud exercitation ullamco laboris nisi ut aliquip exea comaro.",
                 "author": "Patricia Tapia",
                 "date": "Mayo 25.2017"
             },
             {
                 "img": "/images/home/apuntes2.jpg",
-                "subtitle":"descorchados chile 2019",
-                "title": "El mejor tinto",
+                "category": "Apuntes",
+                "title": "Lorem ipsum dolor sit amet,consectetur adispicing elit",
                 "desc": "Ut enim ad minim veniam,quis mostrud exercitation ullamco laboris nisi ut aliquip exea comaro.",
                 "author": "Patricia Tapia",
                 "date": "Mayo 25.2017"
             },
             {
                 "img": "/images/home/apuntes3.jpg",
-                "subtitle":"descorchados chile 2019",
-                "title": "El mejor blaco",
+                "category": "Apuntes",
+                "title": "Lorem ipsum dolor sit amet,consectetur adispicing elit",
                 "desc": "Ut enim ad minim veniam,quis mostrud exercitation ullamco laboris nisi ut aliquip exea comaro.",
                 "author": "Patricia Tapia",
                 "date": "Mayo 25.2017"
             },
             {
                 "img": "/images/home/apuntes4.jpg",
-                "subtitle":"descorchados chile 2019",
-                "title": "Mejores espumantes",
+                "category": "Apuntes",
+                "title": "Lorem ipsum dolor sit amet,consectetur adispicing elit",
                 "desc": "Ut enim ad minim veniam,quis mostrud exercitation ullamco laboris nisi ut aliquip exea comaro.",
                 "author": "Patricia Tapia",
                 "date": "Mayo 25.2017"
             }
         ]
     },
-    "destacados": {
+    "categorias": {
         "items": [
             {
-                "category":"Eventos",
-                "img": "/images/home/destacado-1.jpg",
-                "title": "Descorchados New York 2019",
-                "url":"/detalle-vino"
+                "name": "Vino de la semana",
+                "img": "/images/home/vino-del-mes.jpg",
+                "category": "Vino de la semana",
+                "title": "Kankana del elqui",
+                "author": "Patricia Tapia",
+                "date": "Mayo 25.2017",
+                "url":"/detalle-vino",
+                "icon":{
+                    "type":"img",
+                    "desc":"wine-icon.png"
+                }
             },
             {
-                "category":"Sesiones",
-                "img": "/images/home/destacado-2.jpg",
-                "title": "Muffato y Mechelini Punto de quiebre",
-                "url":"/detalle-vino"
+                "name": "Bodega del mes",
+                "img": "/images/home/bodega-del-mes.jpg",
+                "category": "Bodega del mes",
+                "title": "Lorem ipsum dolor amet solen super",
+                "author": "Patricia Tapia",
+                "date": "Mayo 25.2017",
+                "url":"/detalle-vino",
+                "icon":{
+                    "type":"img",
+                    "desc":"barrel-icon.png"
+                }
             },
             {
-                "category":"Más que vinos",
-                "img": "/images/home/destacado-3.jpg",
-                "title": "Fuegos artificiales, avisos de neon",
-                "url": "/mas-que-vinos"
-            },
-            {
-                "category":"Vinos de la semana",
-                "img": "/images/home/destacado-4.jpg",
-                "title": "Gran enemigo blend",
-                "url": "/mas-que-vinos"
+                "name": "Más que vinos",
+                "img": "/images/home/mas-que-vinos.jpg",
+                "category": "Libros",
+                "title": "Isidoro Blanstein, Cuentos completos",
+                "author": "Patricia Tapia",
+                "date": "Mayo 25.2017",
+                "url": "/mas-que-vinos",
+                "icon":{
+                    "type":"text",
+                    "desc":"library_books"
+                }
             }
         ]
     },
