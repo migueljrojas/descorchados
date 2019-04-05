@@ -2,10 +2,10 @@
 
 // Constructor
 var Header = function() {
-    var header = $('.header');
+    var header = $('.header-2019');
     var body = $('body');
-    var menuOpen = $('.header__hamburguer');
-    var menuClose = $('.header__nav__close');
+    var menuOpen = $('.header-2019__hamburguer');
+    var menuClose = $('.header-2019__nav__close');
 
     menuOpen.on('click', function(){
         header.addClass('-open');
