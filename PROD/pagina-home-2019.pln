@@ -1,14 +1,16 @@
-<main class="home 2019">
-<section class="home__hero">
-	<div class="_slider home__slider">
+<main class="home-2019">
+<section class="home-2019__hero">
+	<div class="_slider home-2019__slider">
 		{{/bloqueUltimas}}
-		<div class="home__hero__slide">			
-			<div class="home__hero__image"><img src="{raiz}img/1440x480/{imagen}"></div>
-			<div class="home__hero__content">
-				<div class="home__hero__wrapper">
-					<h3 class="home__hero__subtitle">{sobretitulo}</h3>
-					<h2 class="home__hero__title">{nombre}</h2>
-					<a href="{link}" data-gratis="{gratuito}" class="home__hero__button">{l25}</a>
+		<div>
+			<div class="home-2019__hero__slide">
+				<div class="home-2019__hero__image"><img src="{raiz}img/1440x480/{imagen}"></div>
+				<div class="home-2019__hero__content">
+					<div class="home-2019__hero__wrapper">
+						<h3 class="home-2019__hero__subtitle">{sobretitulo}</h3>
+						<h2 class="home-2019__hero__title">{nombre}</h2>
+						<a href="{link}" data-gratis="{gratuito}" class="home-2019__hero__button">{l25}</a>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -26,11 +28,8 @@
 							<img src="{raiz}img/312x247/{cuadrado}">
 						</div>
 						<div class="apuntes__item__data">
-							<div class="apuntes__item-data-icon">
-								<i class="fa fa-file-text"></i>
-							</div>
 							<p class="apuntes__item__data-subtitle">{l1}</p>
-							<p class="apuntes__item__data-title"><small>{sobretitulo}</small><br />{nombre}</p>
+							<p class="apuntes__item__data-title"><small>{sobretitulo}</small>{nombre}</p>
 							<p class="apuntes__item__data-desc">{copete}</p>
 							<p class="apuntes__item__data-button">{l25}</p>
 						</div>
@@ -67,7 +66,7 @@
 									</div>
 									<div class="categorias__item-data">
 										<p class="categorias__item-data-category">{categoria_nombre}</p>
-										<p class="categorias__item-data-title"><small>{sobretitulo}</small><br />{nombre}</p>
+										<p class="categorias__item-data-title"><small>{sobretitulo}</small>{nombre}</p>
 									</div>
 								</a>
 							</div>
@@ -107,5 +106,5 @@
 		</div>
 	</div>
 </section>
-<div class="home__bottom-pattern"><img src="{raizVista}images/home/footer-pattenr.png"></div>
+<div class="home-2019__bottom-pattern"><img src="{raizVista}images/home/footer-pattenr.png"></div>
 </main>

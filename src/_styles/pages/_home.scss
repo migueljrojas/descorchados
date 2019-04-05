@@ -1,4 +1,8 @@
-.home {
+.home-2019 {
+
+    $h: &;
+
+    
     /*Main Slider*/
     background: #fff;
 
@@ -194,9 +198,15 @@
                     color: $black;
                     font-size: 28px;
                     margin: 0;
+                    line-height: 1.1;
 
                     @include mq(md) {
                         font-size: 32px;
+                    }
+
+                    small {
+                        font-size: 45%;
+                        color: $midGray;
                     }
                 }
 
@@ -257,7 +267,6 @@
     /*Section Categorias*/
     .categorias {
         &__item {
-            height: 300px;
             margin-bottom: 60px;
             position: relative;
             width: 90%;
@@ -267,26 +276,27 @@
             &:hover {
                 .categorias__item-img {
                     img {
-                        transform: translateY(-50%) scale(1.1);
+                        transform: translate3d(-50%, -50%, 0) scale(1.1);
                     }
                 }
             }
 
             &-img {
                 width: 100%;
-                height: 100%;
+                height: 0;
                 overflow: hidden;
                 position: relative;
+                padding-bottom: 70%;
 
                 img{
                     @include trans;
 
                     position: absolute;
-                    width: auto;
+                    width: 100%;
                     top: 50%;
                     transform: translate3d(-50%, -50%, 0);
                     left: 50%;
-                    height: 100%;
+                    height: auto;
                 }
             }
 
@@ -302,16 +312,22 @@
                     text-align: center;
                     font-size: 24px;
                     font-weight: bold;
-                    overflow: hidden;
-                    display: -webkit-box;
-                    -webkit-line-clamp: 2;
-                    -webkit-box-orient: vertical;
+                    display: flex;
+                    align-items: center;
                     margin-top: 30px;
-                    height: 60px;
                     font-family: $altFont;
                     line-height: 23px;
                     padding: 0 20px;
+                    color: $black;
+                    line-height: 1.1;
+                    justify-content: center;
+                    flex-direction: column;
 
+                    small {
+                        display: block;
+                        font-size: 50%;
+                        color: $midGray;
+                    }
                 }
 
                 &-category {

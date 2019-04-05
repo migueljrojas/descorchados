@@ -1,4 +1,4 @@
-.header {
+.header-2019 {
 
     $h: &;
 
@@ -75,7 +75,7 @@
 
         @include mq(md){
             width: 50%;
-            position: static;
+            position: relative;
         }
 
         svg {

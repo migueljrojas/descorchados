@@ -1,0 +1,115 @@
+<main class="home">
+<section class="home__hero">
+	<div class="_slider home__slider">
+		{{/bloqueUltimas}}
+		<div
+			style="background: url({raiz}img/1440x480/{imagen}) no-repeat bottom center; background-size: cover;"
+			class="home__slider__slide">
+			<div class="container">
+				<div class="home__slider__data">
+					<p>{sobretitulo}</p>
+					<h2>{nombre}</h2>
+					<a href="{link}" data-gratis="{gratuito}" class="_button -white">{l25}</a>
+				</div>
+			</div>
+		</div>
+		{{/bloqueUltimas}}
+	</div>
+</section>
+<section class="apuntes">
+	<div class="container-fluid">
+		<div class="row">
+			<h2>{l1}</h2>
+			{{/bloqueApuntes}}
+			<div class="apuntes__item col-xs-24 col-sm-12 col-lg-6">
+				<a href="{link}" data-gratis="{gratuito}">
+					<div class="apuntes__item-img">
+						<img src="{raiz}img/312x247/{cuadrado}">
+					</div>
+					<div class="apuntes__item-data">
+						<div class="apuntes__item-data-icon">
+							<i class="fa fa-file-text"></i>
+						</div>
+						<p class="apuntes__item-data-category">{l1}</p>
+						<p class="apuntes__item-data-title"><small>{sobretitulo}</small><br />{nombre}</p>
+						<p class="apuntes__item-data-desc">{copete}</p>
+						<div class="apuntes__item-data-bottom">
+							<p class="apuntes__item-data-author">{autor}</p>
+							<p class="apuntes__item-data-date">{fechaFront}</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			{{/bloqueApuntes}}
+		</div>
+	</div>
+</section>
+<section class="categorias">
+	<div class="container-fluid">
+		<div class="row">
+			{{/bloqueVino}}
+			<div class="categorias__item col-xs-24 col-sm-12 col-lg-8">
+				<a href="{link}" data-gratis="{gratuito}">
+					<h2>{l15}</h2>
+					<div class="categorias__item-img">
+						<img src="{raiz}img/425x284/{imgsemana}">
+					</div>
+					<div class="categorias__item-data">
+						<div class="categorias__item-data-icon">
+							<img src="{raizVista}images/home/wine-icon.png">
+						</div>
+						<p class="categorias__item-data-category">{l15}</p>
+						<p class="categorias__item-data-title">{nombre}</p>
+						<div class="categorias__item-data-bottom">
+							<p class="categorias__item-data-author">{autor}</p>
+							<p class="categorias__item-data-date">{fechaFront}</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			{{/bloqueVino}}
+			{{/bloqueMasQue}}
+			<div class="categorias__item col-xs-24 col-sm-12 col-lg-8">
+				<a href="{link}" data-gratis="{gratuito}">
+					<h2>{l3}</h2>
+					<div class="categorias__item-img">
+						<img src="{raiz}img/425x284/{imagen}">
+					</div>
+					<div class="categorias__item-data">
+						<div class="categorias__item-data-icon">
+							<i class="material-icons">{categoria_icono}</i>
+						</div>
+						<p class="categorias__item-data-category">{categoria_nombre}</p>
+						<p class="categorias__item-data-title">{nombre}</p>
+						<div class="categorias__item-data-bottom">
+							<p class="categorias__item-data-author">{autor}</p>
+							<p class="categorias__item-data-date">{fechaFront}</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			{{/bloqueMasQue}}
+			{{/bloqueSesion}}
+			<div class="categorias__item col-xs-24 col-sm-12 col-lg-8">
+				<a href="{link}" data-gratis="{gratuito}">
+					<h2>{l228}</h2>
+					<div class="categorias__item-img">
+						<img src="{raiz}img/425x284/{cuadrado}">
+					</div>
+					<div class="categorias__item-data">
+						<div class="categorias__item-data-icon">
+							<i class="material-icons">library_music</i>
+						</div>
+						<p class="categorias__item-data-category">{categoria_nombre}</p>
+						<p class="categorias__item-data-title"><small>{sobretitulo}</small><br />{nombre}</p>
+						<div class="categorias__item-data-bottom">
+							<p class="categorias__item-data-author">{autor}</p>
+							<p class="categorias__item-data-date">{fechaFront}</p>
+						</div>
+					</div>
+				</a>
+			</div>
+			{{/bloqueSesion}}
+		</div>
+	</div>
+</section>
